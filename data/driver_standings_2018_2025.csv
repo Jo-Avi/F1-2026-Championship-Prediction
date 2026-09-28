@@ -1,0 +1,798 @@
+season,round,driver_id,driver,position,points,wins,constructor
+2018,1,vettel,Sebastian Vettel,1,25.0,1,Ferrari
+2018,1,hamilton,Lewis Hamilton,2,18.0,0,Mercedes
+2018,1,raikkonen,Kimi Räikkönen,3,15.0,0,Ferrari
+2018,1,ricciardo,Daniel Ricciardo,4,12.0,0,Red Bull
+2018,1,alonso,Fernando Alonso,5,10.0,0,McLaren
+2018,1,max_verstappen,Max Verstappen,6,8.0,0,Red Bull
+2018,1,hulkenberg,Nico Hülkenberg,7,6.0,0,Renault
+2018,1,bottas,Valtteri Bottas,8,4.0,0,Mercedes
+2018,1,vandoorne,Stoffel Vandoorne,9,2.0,0,McLaren
+2018,1,sainz,Carlos Sainz,10,1.0,0,Renault
+2018,1,perez,Sergio Pérez,11,0.0,0,Force India
+2018,1,ocon,Esteban Ocon,12,0.0,0,Force India
+2018,1,leclerc,Charles Leclerc,13,0.0,0,Sauber
+2018,1,stroll,Lance Stroll,14,0.0,0,Williams
+2018,1,brendon_hartley,Brendon Hartley,15,0.0,0,Toro Rosso
+2018,2,vettel,Sebastian Vettel,1,50.0,2,Ferrari
+2018,2,hamilton,Lewis Hamilton,2,33.0,0,Mercedes
+2018,2,bottas,Valtteri Bottas,3,22.0,0,Mercedes
+2018,2,alonso,Fernando Alonso,4,16.0,0,McLaren
+2018,2,raikkonen,Kimi Räikkönen,5,15.0,0,Ferrari
+2018,2,hulkenberg,Nico Hülkenberg,6,14.0,0,Renault
+2018,2,gasly,Pierre Gasly,7,12.0,0,Toro Rosso
+2018,2,ricciardo,Daniel Ricciardo,8,12.0,0,Red Bull
+2018,2,kevin_magnussen,Kevin Magnussen,9,10.0,0,Haas F1 Team
+2018,2,max_verstappen,Max Verstappen,10,8.0,0,Red Bull
+2018,2,vandoorne,Stoffel Vandoorne,11,6.0,0,McLaren
+2018,2,ericsson,Marcus Ericsson,12,2.0,0,Sauber
+2018,2,sainz,Carlos Sainz,13,1.0,0,Renault
+2018,2,ocon,Esteban Ocon,14,1.0,0,Force India
+2018,2,perez,Sergio Pérez,15,0.0,0,Force India
+2018,2,leclerc,Charles Leclerc,16,0.0,0,Sauber
+2018,2,grosjean,Romain Grosjean,17,0.0,0,Haas F1 Team
+2018,2,stroll,Lance Stroll,18,0.0,0,Williams
+2018,2,brendon_hartley,Brendon Hartley,19,0.0,0,Toro Rosso
+2018,2,sirotkin,Sergey Sirotkin,20,0.0,0,Williams
+2018,3,vettel,Sebastian Vettel,1,54.0,2,Ferrari
+2018,3,hamilton,Lewis Hamilton,2,45.0,0,Mercedes
+2018,3,bottas,Valtteri Bottas,3,40.0,0,Mercedes
+2018,3,ricciardo,Daniel Ricciardo,4,37.0,1,Red Bull
+2018,3,raikkonen,Kimi Räikkönen,5,30.0,0,Ferrari
+2018,3,alonso,Fernando Alonso,6,22.0,0,McLaren
+2018,3,hulkenberg,Nico Hülkenberg,7,22.0,0,Renault
+2018,3,max_verstappen,Max Verstappen,8,18.0,0,Red Bull
+2018,3,gasly,Pierre Gasly,9,12.0,0,Toro Rosso
+2018,3,kevin_magnussen,Kevin Magnussen,10,11.0,0,Haas F1 Team
+2018,3,vandoorne,Stoffel Vandoorne,11,6.0,0,McLaren
+2018,3,sainz,Carlos Sainz,12,3.0,0,Renault
+2018,3,ericsson,Marcus Ericsson,13,2.0,0,Sauber
+2018,3,ocon,Esteban Ocon,14,1.0,0,Force India
+2018,3,perez,Sergio Pérez,15,0.0,0,Force India
+2018,3,leclerc,Charles Leclerc,16,0.0,0,Sauber
+2018,3,grosjean,Romain Grosjean,17,0.0,0,Haas F1 Team
+2018,3,stroll,Lance Stroll,18,0.0,0,Williams
+2018,3,sirotkin,Sergey Sirotkin,19,0.0,0,Williams
+2018,3,brendon_hartley,Brendon Hartley,20,0.0,0,Toro Rosso
+2018,4,hamilton,Lewis Hamilton,1,70.0,1,Mercedes
+2018,4,vettel,Sebastian Vettel,2,66.0,2,Ferrari
+2018,4,raikkonen,Kimi Räikkönen,3,48.0,0,Ferrari
+2018,4,bottas,Valtteri Bottas,4,40.0,0,Mercedes
+2018,4,ricciardo,Daniel Ricciardo,5,37.0,1,Red Bull
+2018,4,alonso,Fernando Alonso,6,28.0,0,McLaren
+2018,4,hulkenberg,Nico Hülkenberg,7,22.0,0,Renault
+2018,4,max_verstappen,Max Verstappen,8,18.0,0,Red Bull
+2018,4,perez,Sergio Pérez,9,15.0,0,Force India
+2018,4,sainz,Carlos Sainz,10,13.0,0,Renault
+2018,4,gasly,Pierre Gasly,11,12.0,0,Toro Rosso
+2018,4,kevin_magnussen,Kevin Magnussen,12,11.0,0,Haas F1 Team
+2018,4,leclerc,Charles Leclerc,13,8.0,0,Sauber
+2018,4,vandoorne,Stoffel Vandoorne,14,8.0,0,McLaren
+2018,4,stroll,Lance Stroll,15,4.0,0,Williams
+2018,4,ericsson,Marcus Ericsson,16,2.0,0,Sauber
+2018,4,ocon,Esteban Ocon,17,1.0,0,Force India
+2018,4,brendon_hartley,Brendon Hartley,18,1.0,0,Toro Rosso
+2018,4,grosjean,Romain Grosjean,19,0.0,0,Haas F1 Team
+2018,4,sirotkin,Sergey Sirotkin,20,0.0,0,Williams
+2018,5,hamilton,Lewis Hamilton,1,95.0,2,Mercedes
+2018,5,vettel,Sebastian Vettel,2,78.0,2,Ferrari
+2018,5,bottas,Valtteri Bottas,3,58.0,0,Mercedes
+2018,5,raikkonen,Kimi Räikkönen,4,48.0,0,Ferrari
+2018,5,ricciardo,Daniel Ricciardo,5,47.0,1,Red Bull
+2018,5,max_verstappen,Max Verstappen,6,33.0,0,Red Bull
+2018,5,alonso,Fernando Alonso,7,32.0,0,McLaren
+2018,5,hulkenberg,Nico Hülkenberg,8,22.0,0,Renault
+2018,5,kevin_magnussen,Kevin Magnussen,9,19.0,0,Haas F1 Team
+2018,5,sainz,Carlos Sainz,10,19.0,0,Renault
+2018,5,perez,Sergio Pérez,11,17.0,0,Force India
+2018,5,gasly,Pierre Gasly,12,12.0,0,Toro Rosso
+2018,5,leclerc,Charles Leclerc,13,9.0,0,Sauber
+2018,5,vandoorne,Stoffel Vandoorne,14,8.0,0,McLaren
+2018,5,stroll,Lance Stroll,15,4.0,0,Williams
+2018,5,ericsson,Marcus Ericsson,16,2.0,0,Sauber
+2018,5,ocon,Esteban Ocon,17,1.0,0,Force India
+2018,5,brendon_hartley,Brendon Hartley,18,1.0,0,Toro Rosso
+2018,5,grosjean,Romain Grosjean,19,0.0,0,Haas F1 Team
+2018,5,sirotkin,Sergey Sirotkin,20,0.0,0,Williams
+2019,1,bottas,Valtteri Bottas,1,26.0,1,Mercedes
+2019,1,hamilton,Lewis Hamilton,2,18.0,0,Mercedes
+2019,1,max_verstappen,Max Verstappen,3,15.0,0,Red Bull
+2019,1,vettel,Sebastian Vettel,4,12.0,0,Ferrari
+2019,1,leclerc,Charles Leclerc,5,10.0,0,Ferrari
+2019,1,kevin_magnussen,Kevin Magnussen,6,8.0,0,Haas F1 Team
+2019,1,hulkenberg,Nico Hülkenberg,7,6.0,0,Renault
+2019,1,raikkonen,Kimi Räikkönen,8,4.0,0,Alfa Romeo
+2019,1,stroll,Lance Stroll,9,2.0,0,Racing Point
+2019,1,kvyat,Daniil Kvyat,10,1.0,0,Toro Rosso
+2019,1,gasly,Pierre Gasly,11,0.0,0,Red Bull
+2019,1,norris,Lando Norris,12,0.0,0,McLaren
+2019,1,perez,Sergio Pérez,13,0.0,0,Racing Point
+2019,1,albon,Alexander Albon,14,0.0,0,Toro Rosso
+2019,1,giovinazzi,Antonio Giovinazzi,15,0.0,0,Alfa Romeo
+2019,1,russell,George Russell,16,0.0,0,Williams
+2019,1,kubica,Robert Kubica,17,0.0,0,Williams
+2019,2,bottas,Valtteri Bottas,1,44.0,1,Mercedes
+2019,2,hamilton,Lewis Hamilton,2,43.0,1,Mercedes
+2019,2,max_verstappen,Max Verstappen,3,27.0,0,Red Bull
+2019,2,leclerc,Charles Leclerc,4,26.0,0,Ferrari
+2019,2,vettel,Sebastian Vettel,5,22.0,0,Ferrari
+2019,2,raikkonen,Kimi Räikkönen,6,10.0,0,Alfa Romeo
+2019,2,norris,Lando Norris,7,8.0,0,McLaren
+2019,2,kevin_magnussen,Kevin Magnussen,8,8.0,0,Haas F1 Team
+2019,2,hulkenberg,Nico Hülkenberg,9,6.0,0,Renault
+2019,2,gasly,Pierre Gasly,10,4.0,0,Red Bull
+2019,2,stroll,Lance Stroll,11,2.0,0,Racing Point
+2019,2,albon,Alexander Albon,12,2.0,0,Toro Rosso
+2019,2,kvyat,Daniil Kvyat,13,1.0,0,Toro Rosso
+2019,2,perez,Sergio Pérez,14,1.0,0,Racing Point
+2019,2,giovinazzi,Antonio Giovinazzi,15,0.0,0,Alfa Romeo
+2019,2,russell,George Russell,16,0.0,0,Williams
+2019,2,kubica,Robert Kubica,17,0.0,0,Williams
+2019,3,hamilton,Lewis Hamilton,1,68.0,2,Mercedes
+2019,3,bottas,Valtteri Bottas,2,62.0,1,Mercedes
+2019,3,max_verstappen,Max Verstappen,3,39.0,0,Red Bull
+2019,3,vettel,Sebastian Vettel,4,37.0,0,Ferrari
+2019,3,leclerc,Charles Leclerc,5,36.0,0,Ferrari
+2019,3,gasly,Pierre Gasly,6,13.0,0,Red Bull
+2019,3,raikkonen,Kimi Räikkönen,7,12.0,0,Alfa Romeo
+2019,3,norris,Lando Norris,8,8.0,0,McLaren
+2019,3,kevin_magnussen,Kevin Magnussen,9,8.0,0,Haas F1 Team
+2019,3,hulkenberg,Nico Hülkenberg,10,6.0,0,Renault
+2019,3,ricciardo,Daniel Ricciardo,11,6.0,0,Renault
+2019,3,perez,Sergio Pérez,12,5.0,0,Racing Point
+2019,3,albon,Alexander Albon,13,3.0,0,Toro Rosso
+2019,3,stroll,Lance Stroll,14,2.0,0,Racing Point
+2019,3,kvyat,Daniil Kvyat,15,1.0,0,Toro Rosso
+2019,3,giovinazzi,Antonio Giovinazzi,16,0.0,0,Alfa Romeo
+2019,3,grosjean,Romain Grosjean,17,0.0,0,Haas F1 Team
+2019,3,sainz,Carlos Sainz,18,0.0,0,McLaren
+2019,3,russell,George Russell,19,0.0,0,Williams
+2019,3,kubica,Robert Kubica,20,0.0,0,Williams
+2019,4,bottas,Valtteri Bottas,1,87.0,2,Mercedes
+2019,4,hamilton,Lewis Hamilton,2,86.0,2,Mercedes
+2019,4,vettel,Sebastian Vettel,3,52.0,0,Ferrari
+2019,4,max_verstappen,Max Verstappen,4,51.0,0,Red Bull
+2019,4,leclerc,Charles Leclerc,5,47.0,0,Ferrari
+2019,4,perez,Sergio Pérez,6,13.0,0,Racing Point
+2019,4,gasly,Pierre Gasly,7,13.0,0,Red Bull
+2019,4,raikkonen,Kimi Räikkönen,8,13.0,0,Alfa Romeo
+2019,4,norris,Lando Norris,9,12.0,0,McLaren
+2019,4,kevin_magnussen,Kevin Magnussen,10,8.0,0,Haas F1 Team
+2019,4,hulkenberg,Nico Hülkenberg,11,6.0,0,Renault
+2019,4,sainz,Carlos Sainz,12,6.0,0,McLaren
+2019,4,ricciardo,Daniel Ricciardo,13,6.0,0,Renault
+2019,4,stroll,Lance Stroll,14,4.0,0,Racing Point
+2019,4,albon,Alexander Albon,15,3.0,0,Toro Rosso
+2019,4,kvyat,Daniil Kvyat,16,1.0,0,Toro Rosso
+2019,4,giovinazzi,Antonio Giovinazzi,17,0.0,0,Alfa Romeo
+2019,4,grosjean,Romain Grosjean,18,0.0,0,Haas F1 Team
+2019,4,russell,George Russell,19,0.0,0,Williams
+2019,4,kubica,Robert Kubica,20,0.0,0,Williams
+2019,5,hamilton,Lewis Hamilton,1,112.0,3,Mercedes
+2019,5,bottas,Valtteri Bottas,2,105.0,2,Mercedes
+2019,5,max_verstappen,Max Verstappen,3,66.0,0,Red Bull
+2019,5,vettel,Sebastian Vettel,4,64.0,0,Ferrari
+2019,5,leclerc,Charles Leclerc,5,57.0,0,Ferrari
+2019,5,gasly,Pierre Gasly,6,21.0,0,Red Bull
+2019,5,kevin_magnussen,Kevin Magnussen,7,14.0,0,Haas F1 Team
+2019,5,perez,Sergio Pérez,8,13.0,0,Racing Point
+2019,5,raikkonen,Kimi Räikkönen,9,13.0,0,Alfa Romeo
+2019,5,norris,Lando Norris,10,12.0,0,McLaren
+2019,5,sainz,Carlos Sainz,11,10.0,0,McLaren
+2019,5,ricciardo,Daniel Ricciardo,12,6.0,0,Renault
+2019,5,hulkenberg,Nico Hülkenberg,13,6.0,0,Renault
+2019,5,stroll,Lance Stroll,14,4.0,0,Racing Point
+2019,5,albon,Alexander Albon,15,3.0,0,Toro Rosso
+2019,5,kvyat,Daniil Kvyat,16,3.0,0,Toro Rosso
+2019,5,grosjean,Romain Grosjean,17,1.0,0,Haas F1 Team
+2019,5,giovinazzi,Antonio Giovinazzi,18,0.0,0,Alfa Romeo
+2019,5,russell,George Russell,19,0.0,0,Williams
+2019,5,kubica,Robert Kubica,20,0.0,0,Williams
+2020,1,bottas,Valtteri Bottas,1,25.0,1,Mercedes
+2020,1,leclerc,Charles Leclerc,2,18.0,0,Ferrari
+2020,1,norris,Lando Norris,3,16.0,0,McLaren
+2020,1,hamilton,Lewis Hamilton,4,12.0,0,Mercedes
+2020,1,sainz,Carlos Sainz,5,10.0,0,McLaren
+2020,1,perez,Sergio Pérez,6,8.0,0,Racing Point
+2020,1,gasly,Pierre Gasly,7,6.0,0,AlphaTauri
+2020,1,ocon,Esteban Ocon,8,4.0,0,Renault
+2020,1,giovinazzi,Antonio Giovinazzi,9,2.0,0,Alfa Romeo
+2020,1,vettel,Sebastian Vettel,10,1.0,0,Ferrari
+2020,1,latifi,Nicholas Latifi,11,0.0,0,Williams
+2020,1,kvyat,Daniil Kvyat,12,0.0,0,AlphaTauri
+2020,1,albon,Alexander Albon,13,0.0,0,Red Bull
+2020,2,bottas,Valtteri Bottas,1,43.0,1,Mercedes
+2020,2,hamilton,Lewis Hamilton,2,37.0,1,Mercedes
+2020,2,norris,Lando Norris,3,26.0,0,McLaren
+2020,2,leclerc,Charles Leclerc,4,18.0,0,Ferrari
+2020,2,perez,Sergio Pérez,5,16.0,0,Racing Point
+2020,2,max_verstappen,Max Verstappen,6,15.0,0,Red Bull
+2020,2,sainz,Carlos Sainz,7,13.0,0,McLaren
+2020,2,albon,Alexander Albon,8,12.0,0,Red Bull
+2020,2,gasly,Pierre Gasly,9,6.0,0,AlphaTauri
+2020,2,stroll,Lance Stroll,10,6.0,0,Racing Point
+2020,2,ocon,Esteban Ocon,11,4.0,0,Renault
+2020,2,ricciardo,Daniel Ricciardo,12,4.0,0,Renault
+2020,2,giovinazzi,Antonio Giovinazzi,13,2.0,0,Alfa Romeo
+2020,2,kvyat,Daniil Kvyat,14,1.0,0,AlphaTauri
+2020,2,vettel,Sebastian Vettel,15,1.0,0,Ferrari
+2020,2,latifi,Nicholas Latifi,16,0.0,0,Williams
+2020,2,raikkonen,Kimi Räikkönen,17,0.0,0,Alfa Romeo
+2020,2,kevin_magnussen,Kevin Magnussen,18,0.0,0,Haas F1 Team
+2020,2,grosjean,Romain Grosjean,19,0.0,0,Haas F1 Team
+2020,2,russell,George Russell,20,0.0,0,Williams
+2020,3,hamilton,Lewis Hamilton,1,63.0,2,Mercedes
+2020,3,bottas,Valtteri Bottas,2,58.0,1,Mercedes
+2020,3,max_verstappen,Max Verstappen,3,33.0,0,Red Bull
+2020,3,norris,Lando Norris,4,26.0,0,McLaren
+2020,3,albon,Alexander Albon,5,22.0,0,Red Bull
+2020,3,perez,Sergio Pérez,6,22.0,0,Racing Point
+2020,3,leclerc,Charles Leclerc,7,18.0,0,Ferrari
+2020,3,stroll,Lance Stroll,8,18.0,0,Racing Point
+2020,3,sainz,Carlos Sainz,9,15.0,0,McLaren
+2020,3,vettel,Sebastian Vettel,10,9.0,0,Ferrari
+2020,3,ricciardo,Daniel Ricciardo,11,8.0,0,Renault
+2020,3,gasly,Pierre Gasly,12,6.0,0,AlphaTauri
+2020,3,ocon,Esteban Ocon,13,4.0,0,Renault
+2020,3,giovinazzi,Antonio Giovinazzi,14,2.0,0,Alfa Romeo
+2020,3,kvyat,Daniil Kvyat,15,1.0,0,AlphaTauri
+2020,3,kevin_magnussen,Kevin Magnussen,16,1.0,0,Haas F1 Team
+2020,3,raikkonen,Kimi Räikkönen,17,0.0,0,Alfa Romeo
+2020,3,latifi,Nicholas Latifi,18,0.0,0,Williams
+2020,3,grosjean,Romain Grosjean,19,0.0,0,Haas F1 Team
+2020,3,russell,George Russell,20,0.0,0,Williams
+2020,4,hamilton,Lewis Hamilton,1,88.0,3,Mercedes
+2020,4,bottas,Valtteri Bottas,2,58.0,1,Mercedes
+2020,4,max_verstappen,Max Verstappen,3,52.0,0,Red Bull
+2020,4,norris,Lando Norris,4,36.0,0,McLaren
+2020,4,leclerc,Charles Leclerc,5,33.0,0,Ferrari
+2020,4,albon,Alexander Albon,6,26.0,0,Red Bull
+2020,4,perez,Sergio Pérez,7,22.0,0,Racing Point
+2020,4,stroll,Lance Stroll,8,20.0,0,Racing Point
+2020,4,ricciardo,Daniel Ricciardo,9,20.0,0,Renault
+2020,4,sainz,Carlos Sainz,10,15.0,0,McLaren
+2020,4,ocon,Esteban Ocon,11,12.0,0,Renault
+2020,4,gasly,Pierre Gasly,12,12.0,0,AlphaTauri
+2020,4,vettel,Sebastian Vettel,13,10.0,0,Ferrari
+2020,4,giovinazzi,Antonio Giovinazzi,14,2.0,0,Alfa Romeo
+2020,4,kvyat,Daniil Kvyat,15,1.0,0,AlphaTauri
+2020,4,kevin_magnussen,Kevin Magnussen,16,1.0,0,Haas F1 Team
+2020,4,latifi,Nicholas Latifi,17,0.0,0,Williams
+2020,4,raikkonen,Kimi Räikkönen,18,0.0,0,Alfa Romeo
+2020,4,russell,George Russell,19,0.0,0,Williams
+2020,4,grosjean,Romain Grosjean,20,0.0,0,Haas F1 Team
+2020,5,hamilton,Lewis Hamilton,1,107.0,3,Mercedes
+2020,5,max_verstappen,Max Verstappen,2,77.0,1,Red Bull
+2020,5,bottas,Valtteri Bottas,3,73.0,1,Mercedes
+2020,5,leclerc,Charles Leclerc,4,45.0,0,Ferrari
+2020,5,norris,Lando Norris,5,38.0,0,McLaren
+2020,5,albon,Alexander Albon,6,36.0,0,Red Bull
+2020,5,stroll,Lance Stroll,7,28.0,0,Racing Point
+2020,5,perez,Sergio Pérez,8,22.0,0,Racing Point
+2020,5,ricciardo,Daniel Ricciardo,9,20.0,0,Renault
+2020,5,ocon,Esteban Ocon,10,16.0,0,Renault
+2020,5,sainz,Carlos Sainz,11,15.0,0,McLaren
+2020,5,gasly,Pierre Gasly,12,12.0,0,AlphaTauri
+2020,5,vettel,Sebastian Vettel,13,10.0,0,Ferrari
+2020,5,hulkenberg,Nico Hülkenberg,14,6.0,0,Racing Point
+2020,5,giovinazzi,Antonio Giovinazzi,15,2.0,0,Alfa Romeo
+2020,5,kvyat,Daniil Kvyat,16,2.0,0,AlphaTauri
+2020,5,kevin_magnussen,Kevin Magnussen,17,1.0,0,Haas F1 Team
+2020,5,raikkonen,Kimi Räikkönen,18,0.0,0,Alfa Romeo
+2020,5,latifi,Nicholas Latifi,19,0.0,0,Williams
+2020,5,russell,George Russell,20,0.0,0,Williams
+2020,5,grosjean,Romain Grosjean,21,0.0,0,Haas F1 Team
+2021,1,hamilton,Lewis Hamilton,1,25.0,1,Mercedes
+2021,1,max_verstappen,Max Verstappen,2,18.0,0,Red Bull
+2021,1,bottas,Valtteri Bottas,3,16.0,0,Mercedes
+2021,1,norris,Lando Norris,4,12.0,0,McLaren
+2021,1,perez,Sergio Pérez,5,10.0,0,Red Bull
+2021,1,leclerc,Charles Leclerc,6,8.0,0,Ferrari
+2021,1,ricciardo,Daniel Ricciardo,7,6.0,0,McLaren
+2021,1,sainz,Carlos Sainz,8,4.0,0,Ferrari
+2021,1,tsunoda,Yuki Tsunoda,9,2.0,0,AlphaTauri
+2021,1,stroll,Lance Stroll,10,1.0,0,Aston Martin
+2021,1,raikkonen,Kimi Räikkönen,11,0.0,0,Alfa Romeo
+2021,1,giovinazzi,Antonio Giovinazzi,12,0.0,0,Alfa Romeo
+2021,1,ocon,Esteban Ocon,13,0.0,0,Alpine F1 Team
+2021,1,russell,George Russell,14,0.0,0,Williams
+2021,1,vettel,Sebastian Vettel,15,0.0,0,Aston Martin
+2021,1,mick_schumacher,Mick Schumacher,16,0.0,0,Haas F1 Team
+2021,1,gasly,Pierre Gasly,17,0.0,0,AlphaTauri
+2021,1,latifi,Nicholas Latifi,18,0.0,0,Williams
+2021,2,hamilton,Lewis Hamilton,1,44.0,1,Mercedes
+2021,2,max_verstappen,Max Verstappen,2,43.0,1,Red Bull
+2021,2,norris,Lando Norris,3,27.0,0,McLaren
+2021,2,leclerc,Charles Leclerc,4,20.0,0,Ferrari
+2021,2,bottas,Valtteri Bottas,5,16.0,0,Mercedes
+2021,2,sainz,Carlos Sainz,6,14.0,0,Ferrari
+2021,2,ricciardo,Daniel Ricciardo,7,14.0,0,McLaren
+2021,2,perez,Sergio Pérez,8,10.0,0,Red Bull
+2021,2,gasly,Pierre Gasly,9,6.0,0,AlphaTauri
+2021,2,stroll,Lance Stroll,10,5.0,0,Aston Martin
+2021,2,tsunoda,Yuki Tsunoda,11,2.0,0,AlphaTauri
+2021,2,ocon,Esteban Ocon,12,2.0,0,Alpine F1 Team
+2021,2,alonso,Fernando Alonso,13,1.0,0,Alpine F1 Team
+2021,2,raikkonen,Kimi Räikkönen,14,0.0,0,Alfa Romeo
+2021,2,giovinazzi,Antonio Giovinazzi,15,0.0,0,Alfa Romeo
+2021,2,russell,George Russell,16,0.0,0,Williams
+2021,2,vettel,Sebastian Vettel,17,0.0,0,Aston Martin
+2021,2,mick_schumacher,Mick Schumacher,18,0.0,0,Haas F1 Team
+2021,2,mazepin,Nikita Mazepin,19,0.0,0,Haas F1 Team
+2021,2,latifi,Nicholas Latifi,20,0.0,0,Williams
+2021,3,hamilton,Lewis Hamilton,1,69.0,2,Mercedes
+2021,3,max_verstappen,Max Verstappen,2,61.0,1,Red Bull
+2021,3,norris,Lando Norris,3,37.0,0,McLaren
+2021,3,bottas,Valtteri Bottas,4,32.0,0,Mercedes
+2021,3,leclerc,Charles Leclerc,5,28.0,0,Ferrari
+2021,3,perez,Sergio Pérez,6,22.0,0,Red Bull
+2021,3,ricciardo,Daniel Ricciardo,7,16.0,0,McLaren
+2021,3,sainz,Carlos Sainz,8,14.0,0,Ferrari
+2021,3,ocon,Esteban Ocon,9,8.0,0,Alpine F1 Team
+2021,3,gasly,Pierre Gasly,10,7.0,0,AlphaTauri
+2021,3,stroll,Lance Stroll,11,5.0,0,Aston Martin
+2021,3,alonso,Fernando Alonso,12,5.0,0,Alpine F1 Team
+2021,3,tsunoda,Yuki Tsunoda,13,2.0,0,AlphaTauri
+2021,3,raikkonen,Kimi Räikkönen,14,0.0,0,Alfa Romeo
+2021,3,giovinazzi,Antonio Giovinazzi,15,0.0,0,Alfa Romeo
+2021,3,vettel,Sebastian Vettel,16,0.0,0,Aston Martin
+2021,3,russell,George Russell,17,0.0,0,Williams
+2021,3,mick_schumacher,Mick Schumacher,18,0.0,0,Haas F1 Team
+2021,3,mazepin,Nikita Mazepin,19,0.0,0,Haas F1 Team
+2021,3,latifi,Nicholas Latifi,20,0.0,0,Williams
+2021,4,hamilton,Lewis Hamilton,1,94.0,3,Mercedes
+2021,4,max_verstappen,Max Verstappen,2,80.0,1,Red Bull
+2021,4,bottas,Valtteri Bottas,3,47.0,0,Mercedes
+2021,4,norris,Lando Norris,4,41.0,0,McLaren
+2021,4,leclerc,Charles Leclerc,5,40.0,0,Ferrari
+2021,4,perez,Sergio Pérez,6,32.0,0,Red Bull
+2021,4,ricciardo,Daniel Ricciardo,7,24.0,0,McLaren
+2021,4,sainz,Carlos Sainz,8,20.0,0,Ferrari
+2021,4,ocon,Esteban Ocon,9,10.0,0,Alpine F1 Team
+2021,4,gasly,Pierre Gasly,10,8.0,0,AlphaTauri
+2021,4,stroll,Lance Stroll,11,5.0,0,Aston Martin
+2021,4,alonso,Fernando Alonso,12,5.0,0,Alpine F1 Team
+2021,4,tsunoda,Yuki Tsunoda,13,2.0,0,AlphaTauri
+2021,4,raikkonen,Kimi Räikkönen,14,0.0,0,Alfa Romeo
+2021,4,giovinazzi,Antonio Giovinazzi,15,0.0,0,Alfa Romeo
+2021,4,vettel,Sebastian Vettel,16,0.0,0,Aston Martin
+2021,4,russell,George Russell,17,0.0,0,Williams
+2021,4,mick_schumacher,Mick Schumacher,18,0.0,0,Haas F1 Team
+2021,4,latifi,Nicholas Latifi,19,0.0,0,Williams
+2021,4,mazepin,Nikita Mazepin,20,0.0,0,Haas F1 Team
+2021,5,max_verstappen,Max Verstappen,1,105.0,2,Red Bull
+2021,5,hamilton,Lewis Hamilton,2,101.0,3,Mercedes
+2021,5,norris,Lando Norris,3,56.0,0,McLaren
+2021,5,bottas,Valtteri Bottas,4,47.0,0,Mercedes
+2021,5,perez,Sergio Pérez,5,44.0,0,Red Bull
+2021,5,leclerc,Charles Leclerc,6,40.0,0,Ferrari
+2021,5,sainz,Carlos Sainz,7,38.0,0,Ferrari
+2021,5,ricciardo,Daniel Ricciardo,8,24.0,0,McLaren
+2021,5,gasly,Pierre Gasly,9,16.0,0,AlphaTauri
+2021,5,ocon,Esteban Ocon,10,12.0,0,Alpine F1 Team
+2021,5,vettel,Sebastian Vettel,11,10.0,0,Aston Martin
+2021,5,stroll,Lance Stroll,12,9.0,0,Aston Martin
+2021,5,alonso,Fernando Alonso,13,5.0,0,Alpine F1 Team
+2021,5,tsunoda,Yuki Tsunoda,14,2.0,0,AlphaTauri
+2021,5,giovinazzi,Antonio Giovinazzi,15,1.0,0,Alfa Romeo
+2021,5,raikkonen,Kimi Räikkönen,16,0.0,0,Alfa Romeo
+2021,5,russell,George Russell,17,0.0,0,Williams
+2021,5,latifi,Nicholas Latifi,18,0.0,0,Williams
+2021,5,mick_schumacher,Mick Schumacher,19,0.0,0,Haas F1 Team
+2021,5,mazepin,Nikita Mazepin,20,0.0,0,Haas F1 Team
+2022,1,leclerc,Charles Leclerc,1,26.0,1,Ferrari
+2022,1,sainz,Carlos Sainz,2,18.0,0,Ferrari
+2022,1,hamilton,Lewis Hamilton,3,15.0,0,Mercedes
+2022,1,russell,George Russell,4,12.0,0,Mercedes
+2022,1,kevin_magnussen,Kevin Magnussen,5,10.0,0,Haas F1 Team
+2022,1,bottas,Valtteri Bottas,6,8.0,0,Alfa Romeo
+2022,1,ocon,Esteban Ocon,7,6.0,0,Alpine F1 Team
+2022,1,tsunoda,Yuki Tsunoda,8,4.0,0,AlphaTauri
+2022,1,alonso,Fernando Alonso,9,2.0,0,Alpine F1 Team
+2022,1,zhou,Guanyu Zhou,10,1.0,0,Alfa Romeo
+2022,1,mick_schumacher,Mick Schumacher,11,0.0,0,Haas F1 Team
+2022,1,stroll,Lance Stroll,12,0.0,0,Aston Martin
+2022,1,albon,Alexander Albon,13,0.0,0,Williams
+2022,1,ricciardo,Daniel Ricciardo,14,0.0,0,McLaren
+2022,1,norris,Lando Norris,15,0.0,0,McLaren
+2022,1,latifi,Nicholas Latifi,16,0.0,0,Williams
+2022,1,hulkenberg,Nico Hülkenberg,17,0.0,0,Aston Martin
+2022,1,perez,Sergio Pérez,18,0.0,0,Red Bull
+2022,1,max_verstappen,Max Verstappen,19,0.0,0,Red Bull
+2022,2,leclerc,Charles Leclerc,1,45.0,1,Ferrari
+2022,2,sainz,Carlos Sainz,2,33.0,0,Ferrari
+2022,2,max_verstappen,Max Verstappen,3,25.0,1,Red Bull
+2022,2,russell,George Russell,4,22.0,0,Mercedes
+2022,2,hamilton,Lewis Hamilton,5,16.0,0,Mercedes
+2022,2,ocon,Esteban Ocon,6,14.0,0,Alpine F1 Team
+2022,2,perez,Sergio Pérez,7,12.0,0,Red Bull
+2022,2,kevin_magnussen,Kevin Magnussen,8,12.0,0,Haas F1 Team
+2022,2,bottas,Valtteri Bottas,9,8.0,0,Alfa Romeo
+2022,2,norris,Lando Norris,10,6.0,0,McLaren
+2022,2,tsunoda,Yuki Tsunoda,11,4.0,0,AlphaTauri
+2022,2,gasly,Pierre Gasly,12,4.0,0,AlphaTauri
+2022,2,alonso,Fernando Alonso,13,2.0,0,Alpine F1 Team
+2022,2,zhou,Guanyu Zhou,14,1.0,0,Alfa Romeo
+2022,2,mick_schumacher,Mick Schumacher,15,0.0,0,Haas F1 Team
+2022,2,stroll,Lance Stroll,16,0.0,0,Aston Martin
+2022,2,hulkenberg,Nico Hülkenberg,17,0.0,0,Aston Martin
+2022,2,albon,Alexander Albon,18,0.0,0,Williams
+2022,2,ricciardo,Daniel Ricciardo,19,0.0,0,McLaren
+2022,2,latifi,Nicholas Latifi,20,0.0,0,Williams
+2022,3,leclerc,Charles Leclerc,1,71.0,2,Ferrari
+2022,3,russell,George Russell,2,37.0,0,Mercedes
+2022,3,sainz,Carlos Sainz,3,33.0,0,Ferrari
+2022,3,perez,Sergio Pérez,4,30.0,0,Red Bull
+2022,3,hamilton,Lewis Hamilton,5,28.0,0,Mercedes
+2022,3,max_verstappen,Max Verstappen,6,25.0,1,Red Bull
+2022,3,ocon,Esteban Ocon,7,20.0,0,Alpine F1 Team
+2022,3,norris,Lando Norris,8,16.0,0,McLaren
+2022,3,kevin_magnussen,Kevin Magnussen,9,12.0,0,Haas F1 Team
+2022,3,bottas,Valtteri Bottas,10,12.0,0,Alfa Romeo
+2022,3,ricciardo,Daniel Ricciardo,11,8.0,0,McLaren
+2022,3,gasly,Pierre Gasly,12,6.0,0,AlphaTauri
+2022,3,tsunoda,Yuki Tsunoda,13,4.0,0,AlphaTauri
+2022,3,alonso,Fernando Alonso,14,2.0,0,Alpine F1 Team
+2022,3,zhou,Guanyu Zhou,15,1.0,0,Alfa Romeo
+2022,3,albon,Alexander Albon,16,1.0,0,Williams
+2022,3,mick_schumacher,Mick Schumacher,17,0.0,0,Haas F1 Team
+2022,3,stroll,Lance Stroll,18,0.0,0,Aston Martin
+2022,3,hulkenberg,Nico Hülkenberg,19,0.0,0,Aston Martin
+2022,3,latifi,Nicholas Latifi,20,0.0,0,Williams
+2022,4,leclerc,Charles Leclerc,1,86.0,2,Ferrari
+2022,4,max_verstappen,Max Verstappen,2,59.0,2,Red Bull
+2022,4,perez,Sergio Pérez,3,54.0,0,Red Bull
+2022,4,russell,George Russell,4,49.0,0,Mercedes
+2022,4,sainz,Carlos Sainz,5,38.0,0,Ferrari
+2022,4,norris,Lando Norris,6,35.0,0,McLaren
+2022,4,hamilton,Lewis Hamilton,7,28.0,0,Mercedes
+2022,4,bottas,Valtteri Bottas,8,24.0,0,Alfa Romeo
+2022,4,ocon,Esteban Ocon,9,20.0,0,Alpine F1 Team
+2022,4,kevin_magnussen,Kevin Magnussen,10,15.0,0,Haas F1 Team
+2022,4,ricciardo,Daniel Ricciardo,11,11.0,0,McLaren
+2022,4,tsunoda,Yuki Tsunoda,12,10.0,0,AlphaTauri
+2022,4,gasly,Pierre Gasly,13,6.0,0,AlphaTauri
+2022,4,vettel,Sebastian Vettel,14,4.0,0,Aston Martin
+2022,4,alonso,Fernando Alonso,15,2.0,0,Alpine F1 Team
+2022,4,zhou,Guanyu Zhou,16,1.0,0,Alfa Romeo
+2022,4,albon,Alexander Albon,17,1.0,0,Williams
+2022,4,stroll,Lance Stroll,18,1.0,0,Aston Martin
+2022,4,mick_schumacher,Mick Schumacher,19,0.0,0,Haas F1 Team
+2022,4,hulkenberg,Nico Hülkenberg,20,0.0,0,Aston Martin
+2022,4,latifi,Nicholas Latifi,21,0.0,0,Williams
+2022,5,leclerc,Charles Leclerc,1,104.0,2,Ferrari
+2022,5,max_verstappen,Max Verstappen,2,85.0,3,Red Bull
+2022,5,perez,Sergio Pérez,3,66.0,0,Red Bull
+2022,5,russell,George Russell,4,59.0,0,Mercedes
+2022,5,sainz,Carlos Sainz,5,53.0,0,Ferrari
+2022,5,hamilton,Lewis Hamilton,6,36.0,0,Mercedes
+2022,5,norris,Lando Norris,7,35.0,0,McLaren
+2022,5,bottas,Valtteri Bottas,8,30.0,0,Alfa Romeo
+2022,5,ocon,Esteban Ocon,9,24.0,0,Alpine F1 Team
+2022,5,kevin_magnussen,Kevin Magnussen,10,15.0,0,Haas F1 Team
+2022,5,ricciardo,Daniel Ricciardo,11,11.0,0,McLaren
+2022,5,tsunoda,Yuki Tsunoda,12,10.0,0,AlphaTauri
+2022,5,gasly,Pierre Gasly,13,6.0,0,AlphaTauri
+2022,5,vettel,Sebastian Vettel,14,4.0,0,Aston Martin
+2022,5,albon,Alexander Albon,15,3.0,0,Williams
+2022,5,alonso,Fernando Alonso,16,2.0,0,Alpine F1 Team
+2022,5,stroll,Lance Stroll,17,2.0,0,Aston Martin
+2022,5,zhou,Guanyu Zhou,18,1.0,0,Alfa Romeo
+2022,5,mick_schumacher,Mick Schumacher,19,0.0,0,Haas F1 Team
+2022,5,hulkenberg,Nico Hülkenberg,20,0.0,0,Aston Martin
+2022,5,latifi,Nicholas Latifi,21,0.0,0,Williams
+2023,1,max_verstappen,Max Verstappen,1,25.0,1,Red Bull
+2023,1,perez,Sergio Pérez,2,18.0,0,Red Bull
+2023,1,alonso,Fernando Alonso,3,15.0,0,Aston Martin
+2023,1,sainz,Carlos Sainz,4,12.0,0,Ferrari
+2023,1,hamilton,Lewis Hamilton,5,10.0,0,Mercedes
+2023,1,stroll,Lance Stroll,6,8.0,0,Aston Martin
+2023,1,russell,George Russell,7,6.0,0,Mercedes
+2023,1,bottas,Valtteri Bottas,8,4.0,0,Alfa Romeo
+2023,1,gasly,Pierre Gasly,9,2.0,0,Alpine F1 Team
+2023,1,albon,Alexander Albon,10,1.0,0,Williams
+2023,1,tsunoda,Yuki Tsunoda,11,0.0,0,AlphaTauri
+2023,1,sargeant,Logan Sargeant,12,0.0,0,Williams
+2023,1,kevin_magnussen,Kevin Magnussen,13,0.0,0,Haas F1 Team
+2023,1,de_vries,Nyck de Vries,14,0.0,0,AlphaTauri
+2023,1,hulkenberg,Nico Hülkenberg,15,0.0,0,Haas F1 Team
+2023,1,zhou,Guanyu Zhou,16,0.0,0,Alfa Romeo
+2023,1,norris,Lando Norris,17,0.0,0,McLaren
+2023,2,max_verstappen,Max Verstappen,1,44.0,1,Red Bull
+2023,2,perez,Sergio Pérez,2,43.0,1,Red Bull
+2023,2,alonso,Fernando Alonso,3,30.0,0,Aston Martin
+2023,2,sainz,Carlos Sainz,4,20.0,0,Ferrari
+2023,2,hamilton,Lewis Hamilton,5,20.0,0,Mercedes
+2023,2,russell,George Russell,6,18.0,0,Mercedes
+2023,2,stroll,Lance Stroll,7,8.0,0,Aston Martin
+2023,2,leclerc,Charles Leclerc,8,6.0,0,Ferrari
+2023,2,bottas,Valtteri Bottas,9,4.0,0,Alfa Romeo
+2023,2,ocon,Esteban Ocon,10,4.0,0,Alpine F1 Team
+2023,2,gasly,Pierre Gasly,11,4.0,0,Alpine F1 Team
+2023,2,kevin_magnussen,Kevin Magnussen,12,1.0,0,Haas F1 Team
+2023,2,albon,Alexander Albon,13,1.0,0,Williams
+2023,2,tsunoda,Yuki Tsunoda,14,0.0,0,AlphaTauri
+2023,2,hulkenberg,Nico Hülkenberg,15,0.0,0,Haas F1 Team
+2023,2,sargeant,Logan Sargeant,16,0.0,0,Williams
+2023,2,zhou,Guanyu Zhou,17,0.0,0,Alfa Romeo
+2023,2,de_vries,Nyck de Vries,18,0.0,0,AlphaTauri
+2023,2,piastri,Oscar Piastri,19,0.0,0,McLaren
+2023,2,norris,Lando Norris,20,0.0,0,McLaren
+2023,3,max_verstappen,Max Verstappen,1,69.0,2,Red Bull
+2023,3,perez,Sergio Pérez,2,54.0,1,Red Bull
+2023,3,alonso,Fernando Alonso,3,45.0,0,Aston Martin
+2023,3,hamilton,Lewis Hamilton,4,38.0,0,Mercedes
+2023,3,sainz,Carlos Sainz,5,20.0,0,Ferrari
+2023,3,stroll,Lance Stroll,6,20.0,0,Aston Martin
+2023,3,russell,George Russell,7,18.0,0,Mercedes
+2023,3,norris,Lando Norris,8,8.0,0,McLaren
+2023,3,hulkenberg,Nico Hülkenberg,9,6.0,0,Haas F1 Team
+2023,3,leclerc,Charles Leclerc,10,6.0,0,Ferrari
+2023,3,bottas,Valtteri Bottas,11,4.0,0,Alfa Romeo
+2023,3,ocon,Esteban Ocon,12,4.0,0,Alpine F1 Team
+2023,3,piastri,Oscar Piastri,13,4.0,0,McLaren
+2023,3,gasly,Pierre Gasly,14,4.0,0,Alpine F1 Team
+2023,3,zhou,Guanyu Zhou,15,2.0,0,Alfa Romeo
+2023,3,tsunoda,Yuki Tsunoda,16,1.0,0,AlphaTauri
+2023,3,kevin_magnussen,Kevin Magnussen,17,1.0,0,Haas F1 Team
+2023,3,albon,Alexander Albon,18,1.0,0,Williams
+2023,3,sargeant,Logan Sargeant,19,0.0,0,Williams
+2023,3,de_vries,Nyck de Vries,20,0.0,0,AlphaTauri
+2023,4,max_verstappen,Max Verstappen,1,93.0,2,Red Bull
+2023,4,perez,Sergio Pérez,2,87.0,2,Red Bull
+2023,4,alonso,Fernando Alonso,3,60.0,0,Aston Martin
+2023,4,hamilton,Lewis Hamilton,4,48.0,0,Mercedes
+2023,4,sainz,Carlos Sainz,5,34.0,0,Ferrari
+2023,4,leclerc,Charles Leclerc,6,28.0,0,Ferrari
+2023,4,russell,George Russell,7,28.0,0,Mercedes
+2023,4,stroll,Lance Stroll,8,27.0,0,Aston Martin
+2023,4,norris,Lando Norris,9,10.0,0,McLaren
+2023,4,hulkenberg,Nico Hülkenberg,10,6.0,0,Haas F1 Team
+2023,4,piastri,Oscar Piastri,11,4.0,0,McLaren
+2023,4,bottas,Valtteri Bottas,12,4.0,0,Alfa Romeo
+2023,4,ocon,Esteban Ocon,13,4.0,0,Alpine F1 Team
+2023,4,gasly,Pierre Gasly,14,4.0,0,Alpine F1 Team
+2023,4,zhou,Guanyu Zhou,15,2.0,0,Alfa Romeo
+2023,4,tsunoda,Yuki Tsunoda,16,2.0,0,AlphaTauri
+2023,4,albon,Alexander Albon,17,1.0,0,Williams
+2023,4,kevin_magnussen,Kevin Magnussen,18,1.0,0,Haas F1 Team
+2023,4,sargeant,Logan Sargeant,19,0.0,0,Williams
+2023,4,de_vries,Nyck de Vries,20,0.0,0,AlphaTauri
+2023,5,max_verstappen,Max Verstappen,1,119.0,3,Red Bull
+2023,5,perez,Sergio Pérez,2,105.0,2,Red Bull
+2023,5,alonso,Fernando Alonso,3,75.0,0,Aston Martin
+2023,5,hamilton,Lewis Hamilton,4,56.0,0,Mercedes
+2023,5,sainz,Carlos Sainz,5,44.0,0,Ferrari
+2023,5,russell,George Russell,6,40.0,0,Mercedes
+2023,5,leclerc,Charles Leclerc,7,34.0,0,Ferrari
+2023,5,stroll,Lance Stroll,8,27.0,0,Aston Martin
+2023,5,norris,Lando Norris,9,10.0,0,McLaren
+2023,5,gasly,Pierre Gasly,10,8.0,0,Alpine F1 Team
+2023,5,hulkenberg,Nico Hülkenberg,11,6.0,0,Haas F1 Team
+2023,5,ocon,Esteban Ocon,12,6.0,0,Alpine F1 Team
+2023,5,bottas,Valtteri Bottas,13,4.0,0,Alfa Romeo
+2023,5,piastri,Oscar Piastri,14,4.0,0,McLaren
+2023,5,zhou,Guanyu Zhou,15,2.0,0,Alfa Romeo
+2023,5,tsunoda,Yuki Tsunoda,16,2.0,0,AlphaTauri
+2023,5,kevin_magnussen,Kevin Magnussen,17,2.0,0,Haas F1 Team
+2023,5,albon,Alexander Albon,18,1.0,0,Williams
+2023,5,sargeant,Logan Sargeant,19,0.0,0,Williams
+2023,5,de_vries,Nyck de Vries,20,0.0,0,AlphaTauri
+2024,1,max_verstappen,Max Verstappen,1,26.0,1,Red Bull
+2024,1,perez,Sergio Pérez,2,18.0,0,Red Bull
+2024,1,sainz,Carlos Sainz,3,15.0,0,Ferrari
+2024,1,leclerc,Charles Leclerc,4,12.0,0,Ferrari
+2024,1,russell,George Russell,5,10.0,0,Mercedes
+2024,1,norris,Lando Norris,6,8.0,0,McLaren
+2024,1,hamilton,Lewis Hamilton,7,6.0,0,Mercedes
+2024,1,piastri,Oscar Piastri,8,4.0,0,McLaren
+2024,1,alonso,Fernando Alonso,9,2.0,0,Aston Martin
+2024,1,stroll,Lance Stroll,10,1.0,0,Aston Martin
+2024,1,zhou,Guanyu Zhou,11,0.0,0,Sauber
+2024,1,kevin_magnussen,Kevin Magnussen,12,0.0,0,Haas F1 Team
+2024,1,ricciardo,Daniel Ricciardo,13,0.0,0,RB F1 Team
+2024,1,tsunoda,Yuki Tsunoda,14,0.0,0,RB F1 Team
+2024,1,albon,Alexander Albon,15,0.0,0,Williams
+2024,1,hulkenberg,Nico Hülkenberg,16,0.0,0,Haas F1 Team
+2024,1,ocon,Esteban Ocon,17,0.0,0,Alpine F1 Team
+2024,1,gasly,Pierre Gasly,18,0.0,0,Alpine F1 Team
+2024,1,bottas,Valtteri Bottas,19,0.0,0,Sauber
+2024,1,sargeant,Logan Sargeant,20,0.0,0,Williams
+2024,2,max_verstappen,Max Verstappen,1,51.0,2,Red Bull
+2024,2,perez,Sergio Pérez,2,36.0,0,Red Bull
+2024,2,leclerc,Charles Leclerc,3,28.0,0,Ferrari
+2024,2,russell,George Russell,4,18.0,0,Mercedes
+2024,2,piastri,Oscar Piastri,5,16.0,0,McLaren
+2024,2,sainz,Carlos Sainz,6,15.0,0,Ferrari
+2024,2,alonso,Fernando Alonso,7,12.0,0,Aston Martin
+2024,2,norris,Lando Norris,8,12.0,0,McLaren
+2024,2,hamilton,Lewis Hamilton,9,8.0,0,Mercedes
+2024,2,bearman,Oliver Bearman,10,6.0,0,Ferrari
+2024,2,hulkenberg,Nico Hülkenberg,11,1.0,0,Haas F1 Team
+2024,2,stroll,Lance Stroll,12,1.0,0,Aston Martin
+2024,2,albon,Alexander Albon,13,0.0,0,Williams
+2024,2,zhou,Guanyu Zhou,14,0.0,0,Sauber
+2024,2,kevin_magnussen,Kevin Magnussen,15,0.0,0,Haas F1 Team
+2024,2,ricciardo,Daniel Ricciardo,16,0.0,0,RB F1 Team
+2024,2,ocon,Esteban Ocon,17,0.0,0,Alpine F1 Team
+2024,2,tsunoda,Yuki Tsunoda,18,0.0,0,RB F1 Team
+2024,2,sargeant,Logan Sargeant,19,0.0,0,Williams
+2024,2,bottas,Valtteri Bottas,20,0.0,0,Sauber
+2024,2,gasly,Pierre Gasly,21,0.0,0,Alpine F1 Team
+2024,3,max_verstappen,Max Verstappen,1,51.0,2,Red Bull
+2024,3,leclerc,Charles Leclerc,2,47.0,0,Ferrari
+2024,3,perez,Sergio Pérez,3,46.0,0,Red Bull
+2024,3,sainz,Carlos Sainz,4,40.0,1,Ferrari
+2024,3,piastri,Oscar Piastri,5,28.0,0,McLaren
+2024,3,norris,Lando Norris,6,27.0,0,McLaren
+2024,3,russell,George Russell,7,18.0,0,Mercedes
+2024,3,alonso,Fernando Alonso,8,16.0,0,Aston Martin
+2024,3,stroll,Lance Stroll,9,9.0,0,Aston Martin
+2024,3,hamilton,Lewis Hamilton,10,8.0,0,Mercedes
+2024,3,tsunoda,Yuki Tsunoda,11,6.0,0,RB F1 Team
+2024,3,bearman,Oliver Bearman,12,6.0,0,Ferrari
+2024,3,hulkenberg,Nico Hülkenberg,13,3.0,0,Haas F1 Team
+2024,3,kevin_magnussen,Kevin Magnussen,14,1.0,0,Haas F1 Team
+2024,3,albon,Alexander Albon,15,0.0,0,Williams
+2024,3,zhou,Guanyu Zhou,16,0.0,0,Sauber
+2024,3,ricciardo,Daniel Ricciardo,17,0.0,0,RB F1 Team
+2024,3,ocon,Esteban Ocon,18,0.0,0,Alpine F1 Team
+2024,3,gasly,Pierre Gasly,19,0.0,0,Alpine F1 Team
+2024,3,bottas,Valtteri Bottas,20,0.0,0,Sauber
+2024,3,sargeant,Logan Sargeant,21,0.0,0,Williams
+2024,4,max_verstappen,Max Verstappen,1,77.0,3,Red Bull
+2024,4,perez,Sergio Pérez,2,64.0,0,Red Bull
+2024,4,leclerc,Charles Leclerc,3,59.0,0,Ferrari
+2024,4,sainz,Carlos Sainz,4,55.0,1,Ferrari
+2024,4,norris,Lando Norris,5,37.0,0,McLaren
+2024,4,piastri,Oscar Piastri,6,32.0,0,McLaren
+2024,4,russell,George Russell,7,24.0,0,Mercedes
+2024,4,alonso,Fernando Alonso,8,24.0,0,Aston Martin
+2024,4,hamilton,Lewis Hamilton,9,10.0,0,Mercedes
+2024,4,stroll,Lance Stroll,10,9.0,0,Aston Martin
+2024,4,tsunoda,Yuki Tsunoda,11,7.0,0,RB F1 Team
+2024,4,bearman,Oliver Bearman,12,6.0,0,Ferrari
+2024,4,hulkenberg,Nico Hülkenberg,13,3.0,0,Haas F1 Team
+2024,4,kevin_magnussen,Kevin Magnussen,14,1.0,0,Haas F1 Team
+2024,4,albon,Alexander Albon,15,0.0,0,Williams
+2024,4,zhou,Guanyu Zhou,16,0.0,0,Sauber
+2024,4,ricciardo,Daniel Ricciardo,17,0.0,0,RB F1 Team
+2024,4,ocon,Esteban Ocon,18,0.0,0,Alpine F1 Team
+2024,4,gasly,Pierre Gasly,19,0.0,0,Alpine F1 Team
+2024,4,bottas,Valtteri Bottas,20,0.0,0,Sauber
+2024,4,sargeant,Logan Sargeant,21,0.0,0,Williams
+2024,5,max_verstappen,Max Verstappen,1,110.0,4,Red Bull
+2024,5,perez,Sergio Pérez,2,85.0,0,Red Bull
+2024,5,leclerc,Charles Leclerc,3,76.0,0,Ferrari
+2024,5,sainz,Carlos Sainz,4,69.0,1,Ferrari
+2024,5,norris,Lando Norris,5,58.0,0,McLaren
+2024,5,piastri,Oscar Piastri,6,38.0,0,McLaren
+2024,5,russell,George Russell,7,33.0,0,Mercedes
+2024,5,alonso,Fernando Alonso,8,31.0,0,Aston Martin
+2024,5,hamilton,Lewis Hamilton,9,19.0,0,Mercedes
+2024,5,stroll,Lance Stroll,10,9.0,0,Aston Martin
+2024,5,tsunoda,Yuki Tsunoda,11,7.0,0,RB F1 Team
+2024,5,bearman,Oliver Bearman,12,6.0,0,Ferrari
+2024,5,hulkenberg,Nico Hülkenberg,13,4.0,0,Haas F1 Team
+2024,5,kevin_magnussen,Kevin Magnussen,14,1.0,0,Haas F1 Team
+2024,5,albon,Alexander Albon,15,0.0,0,Williams
+2024,5,ocon,Esteban Ocon,16,0.0,0,Alpine F1 Team
+2024,5,zhou,Guanyu Zhou,17,0.0,0,Sauber
+2024,5,ricciardo,Daniel Ricciardo,18,0.0,0,RB F1 Team
+2024,5,gasly,Pierre Gasly,19,0.0,0,Alpine F1 Team
+2024,5,bottas,Valtteri Bottas,20,0.0,0,Sauber
+2024,5,sargeant,Logan Sargeant,21,0.0,0,Williams
+2024,6,max_verstappen,Max Verstappen,1,136.0,4,Red Bull
+2024,6,perez,Sergio Pérez,2,103.0,0,Red Bull
+2024,6,leclerc,Charles Leclerc,3,98.0,0,Ferrari
+2024,6,norris,Lando Norris,4,83.0,1,McLaren
+2024,6,sainz,Carlos Sainz,5,83.0,1,Ferrari
+2024,6,piastri,Oscar Piastri,6,41.0,0,McLaren
+2024,6,russell,George Russell,7,37.0,0,Mercedes
+2024,6,alonso,Fernando Alonso,8,33.0,0,Aston Martin
+2024,6,hamilton,Lewis Hamilton,9,27.0,0,Mercedes
+2024,6,tsunoda,Yuki Tsunoda,10,14.0,0,RB F1 Team
+2024,6,stroll,Lance Stroll,11,9.0,0,Aston Martin
+2024,6,bearman,Oliver Bearman,12,6.0,0,Ferrari
+2024,6,hulkenberg,Nico Hülkenberg,13,6.0,0,Haas F1 Team
+2024,6,ricciardo,Daniel Ricciardo,14,5.0,0,RB F1 Team
+2024,6,ocon,Esteban Ocon,15,1.0,0,Alpine F1 Team
+2024,6,kevin_magnussen,Kevin Magnussen,16,1.0,0,Haas F1 Team
+2024,6,albon,Alexander Albon,17,0.0,0,Williams
+2024,6,zhou,Guanyu Zhou,18,0.0,0,Sauber
+2024,6,gasly,Pierre Gasly,19,0.0,0,Alpine F1 Team
+2024,6,bottas,Valtteri Bottas,20,0.0,0,Sauber
+2024,6,sargeant,Logan Sargeant,21,0.0,0,Williams
+2025,1,norris,Lando Norris,1,25.0,1,McLaren
+2025,1,max_verstappen,Max Verstappen,2,18.0,0,Red Bull
+2025,1,russell,George Russell,3,15.0,0,Mercedes
+2025,1,antonelli,Andrea Kimi Antonelli,4,12.0,0,Mercedes
+2025,1,albon,Alexander Albon,5,10.0,0,Williams
+2025,1,stroll,Lance Stroll,6,8.0,0,Aston Martin
+2025,1,hulkenberg,Nico Hülkenberg,7,6.0,0,Sauber
+2025,1,leclerc,Charles Leclerc,8,4.0,0,Ferrari
+2025,1,piastri,Oscar Piastri,9,2.0,0,McLaren
+2025,1,hamilton,Lewis Hamilton,10,1.0,0,Ferrari
+2025,1,gasly,Pierre Gasly,11,0.0,0,Alpine F1 Team
+2025,1,tsunoda,Yuki Tsunoda,12,0.0,0,RB F1 Team
+2025,1,ocon,Esteban Ocon,13,0.0,0,Haas F1 Team
+2025,1,bearman,Oliver Bearman,14,0.0,0,Haas F1 Team
+2025,2,norris,Lando Norris,1,44.0,1,McLaren
+2025,2,max_verstappen,Max Verstappen,2,36.0,0,Red Bull
+2025,2,russell,George Russell,3,35.0,0,Mercedes
+2025,2,piastri,Oscar Piastri,4,34.0,1,McLaren
+2025,2,antonelli,Andrea Kimi Antonelli,5,22.0,0,Mercedes
+2025,2,albon,Alexander Albon,6,16.0,0,Williams
+2025,2,ocon,Esteban Ocon,7,10.0,0,Haas F1 Team
+2025,2,stroll,Lance Stroll,8,10.0,0,Aston Martin
+2025,2,hamilton,Lewis Hamilton,9,9.0,0,Ferrari
+2025,2,leclerc,Charles Leclerc,10,8.0,0,Ferrari
+2025,2,hulkenberg,Nico Hülkenberg,11,6.0,0,Sauber
+2025,2,bearman,Oliver Bearman,12,4.0,0,Haas F1 Team
+2025,2,tsunoda,Yuki Tsunoda,13,3.0,0,RB F1 Team
+2025,2,sainz,Carlos Sainz,14,1.0,0,Williams
+2025,2,gasly,Pierre Gasly,15,0.0,0,Alpine F1 Team
+2025,2,hadjar,Isack Hadjar,16,0.0,0,RB F1 Team
+2025,2,lawson,Liam Lawson,17,0.0,0,Red Bull
+2025,2,doohan,Jack Doohan,18,0.0,0,Alpine F1 Team
+2025,2,bortoleto,Gabriel Bortoleto,19,0.0,0,Sauber
+2025,3,norris,Lando Norris,1,62.0,1,McLaren
+2025,3,max_verstappen,Max Verstappen,2,61.0,1,Red Bull
+2025,3,piastri,Oscar Piastri,3,49.0,1,McLaren
+2025,3,russell,George Russell,4,45.0,0,Mercedes
+2025,3,antonelli,Andrea Kimi Antonelli,5,30.0,0,Mercedes
+2025,3,leclerc,Charles Leclerc,6,20.0,0,Ferrari
+2025,3,albon,Alexander Albon,7,18.0,0,Williams
+2025,3,hamilton,Lewis Hamilton,8,15.0,0,Ferrari
+2025,3,ocon,Esteban Ocon,9,10.0,0,Haas F1 Team
+2025,3,stroll,Lance Stroll,10,10.0,0,Aston Martin
+2025,3,hulkenberg,Nico Hülkenberg,11,6.0,0,Sauber
+2025,3,bearman,Oliver Bearman,12,5.0,0,Haas F1 Team
+2025,3,hadjar,Isack Hadjar,13,4.0,0,RB F1 Team
+2025,3,tsunoda,Yuki Tsunoda,14,3.0,0,RB F1 Team
+2025,3,sainz,Carlos Sainz,15,1.0,0,Williams
+2025,3,gasly,Pierre Gasly,16,0.0,0,Alpine F1 Team
+2025,3,alonso,Fernando Alonso,17,0.0,0,Aston Martin
+2025,3,lawson,Liam Lawson,18,0.0,0,Red Bull
+2025,3,doohan,Jack Doohan,19,0.0,0,Alpine F1 Team
+2025,3,bortoleto,Gabriel Bortoleto,20,0.0,0,Sauber
+2025,4,norris,Lando Norris,1,77.0,1,McLaren
+2025,4,piastri,Oscar Piastri,2,74.0,2,McLaren
+2025,4,max_verstappen,Max Verstappen,3,69.0,1,Red Bull
+2025,4,russell,George Russell,4,63.0,0,Mercedes
+2025,4,leclerc,Charles Leclerc,5,32.0,0,Ferrari
+2025,4,antonelli,Andrea Kimi Antonelli,6,30.0,0,Mercedes
+2025,4,hamilton,Lewis Hamilton,7,25.0,0,Ferrari
+2025,4,albon,Alexander Albon,8,18.0,0,Williams
+2025,4,ocon,Esteban Ocon,9,14.0,0,Haas F1 Team
+2025,4,stroll,Lance Stroll,10,10.0,0,Aston Martin
+2025,4,gasly,Pierre Gasly,11,6.0,0,Alpine F1 Team
+2025,4,hulkenberg,Nico Hülkenberg,12,6.0,0,Sauber
+2025,4,bearman,Oliver Bearman,13,6.0,0,Haas F1 Team
+2025,4,tsunoda,Yuki Tsunoda,14,5.0,0,RB F1 Team
+2025,4,hadjar,Isack Hadjar,15,4.0,0,RB F1 Team
+2025,4,sainz,Carlos Sainz,16,1.0,0,Williams
+2025,4,alonso,Fernando Alonso,17,0.0,0,Aston Martin
+2025,4,lawson,Liam Lawson,18,0.0,0,Red Bull
+2025,4,doohan,Jack Doohan,19,0.0,0,Alpine F1 Team
+2025,4,bortoleto,Gabriel Bortoleto,20,0.0,0,Sauber
+2025,5,piastri,Oscar Piastri,1,99.0,3,McLaren
+2025,5,norris,Lando Norris,2,89.0,1,McLaren
+2025,5,max_verstappen,Max Verstappen,3,87.0,1,Red Bull
+2025,5,russell,George Russell,4,73.0,0,Mercedes
+2025,5,leclerc,Charles Leclerc,5,47.0,0,Ferrari
+2025,5,antonelli,Andrea Kimi Antonelli,6,38.0,0,Mercedes
+2025,5,hamilton,Lewis Hamilton,7,31.0,0,Ferrari
+2025,5,albon,Alexander Albon,8,20.0,0,Williams
+2025,5,ocon,Esteban Ocon,9,14.0,0,Haas F1 Team
+2025,5,stroll,Lance Stroll,10,10.0,0,Aston Martin
+2025,5,gasly,Pierre Gasly,11,6.0,0,Alpine F1 Team
+2025,5,hulkenberg,Nico Hülkenberg,12,6.0,0,Sauber
+2025,5,bearman,Oliver Bearman,13,6.0,0,Haas F1 Team
+2025,5,hadjar,Isack Hadjar,14,5.0,0,RB F1 Team
+2025,5,sainz,Carlos Sainz,15,5.0,0,Williams
+2025,5,tsunoda,Yuki Tsunoda,16,5.0,0,RB F1 Team
+2025,5,alonso,Fernando Alonso,17,0.0,0,Aston Martin
+2025,5,lawson,Liam Lawson,18,0.0,0,Red Bull
+2025,5,doohan,Jack Doohan,19,0.0,0,Alpine F1 Team
+2025,5,bortoleto,Gabriel Bortoleto,20,0.0,0,Sauber

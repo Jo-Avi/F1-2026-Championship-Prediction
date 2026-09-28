@@ -1,0 +1,326 @@
+season,round,driver_id,driver,constructor,qualifying_position,Q1,Q2,Q3
+2026,1,russell,George Russell,Mercedes,1,1:19.507,1:18.934,1:18.518
+2026,1,antonelli,Andrea Kimi Antonelli,Mercedes,2,1:20.120,1:19.435,1:18.811
+2026,1,hadjar,Isack Hadjar,Red Bull,3,1:20.023,1:19.653,1:19.303
+2026,1,leclerc,Charles Leclerc,Ferrari,4,1:20.226,1:19.357,1:19.327
+2026,1,piastri,Oscar Piastri,McLaren,5,1:19.664,1:19.525,1:19.380
+2026,1,norris,Lando Norris,McLaren,6,1:20.010,1:19.882,1:19.475
+2026,1,hamilton,Lewis Hamilton,Ferrari,7,1:19.811,1:19.921,1:19.478
+2026,1,lawson,Liam Lawson,RB F1 Team,8,1:20.491,1:20.144,1:19.994
+2026,1,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,1:20.409,1:19.971,1:21.247
+2026,1,bortoleto,Gabriel Bortoleto,Audi,10,1:20.495,1:20.221,
+2026,1,hulkenberg,Nico Hülkenberg,Audi,11,1:21.024,1:20.303,
+2026,1,bearman,Oliver Bearman,Haas F1 Team,12,1:21.247,1:20.311,
+2026,1,ocon,Esteban Ocon,Haas F1 Team,13,1:20.759,1:20.491,
+2026,1,gasly,Pierre Gasly,Alpine F1 Team,14,1:21.138,1:20.501,
+2026,1,albon,Alexander Albon,Williams,15,1:21.051,1:20.941,
+2026,1,colapinto,Franco Colapinto,Alpine F1 Team,16,1:21.200,1:21.270,
+2026,1,alonso,Fernando Alonso,Aston Martin,17,1:21.969,,
+2026,1,perez,Sergio Pérez,Cadillac F1 Team,18,1:22.605,,
+2026,1,bottas,Valtteri Bottas,Cadillac F1 Team,19,1:23.244,,
+2026,2,antonelli,Andrea Kimi Antonelli,Mercedes,1,1:33.305,1:32.443,1:32.064
+2026,2,russell,George Russell,Mercedes,2,1:33.262,1:32.523,1:32.286
+2026,2,hamilton,Lewis Hamilton,Ferrari,3,1:33.522,1:32.567,1:32.415
+2026,2,leclerc,Charles Leclerc,Ferrari,4,1:33.175,1:32.486,1:32.428
+2026,2,piastri,Oscar Piastri,McLaren,5,1:33.590,1:33.130,1:32.550
+2026,2,norris,Lando Norris,McLaren,6,1:33.535,1:32.910,1:32.608
+2026,2,gasly,Pierre Gasly,Alpine F1 Team,7,1:33.788,1:33.003,1:32.873
+2026,2,max_verstappen,Max Verstappen,Red Bull,8,1:33.417,1:33.098,1:33.002
+2026,2,hadjar,Isack Hadjar,Red Bull,9,1:33.632,1:33.352,1:33.121
+2026,2,bearman,Oliver Bearman,Haas F1 Team,10,1:33.687,1:33.197,1:33.292
+2026,2,hulkenberg,Nico Hülkenberg,Audi,11,1:34.116,1:33.354,
+2026,2,colapinto,Franco Colapinto,Alpine F1 Team,12,1:33.634,1:33.357,
+2026,2,ocon,Esteban Ocon,Haas F1 Team,13,1:33.974,1:33.538,
+2026,2,lawson,Liam Lawson,RB F1 Team,14,1:34.139,1:33.765,
+2026,2,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,1:33.906,1:33.784,
+2026,2,bortoleto,Gabriel Bortoleto,Audi,16,1:33.549,1:33.965,
+2026,2,sainz,Carlos Sainz,Williams,17,1:34.317,,
+2026,2,albon,Alexander Albon,Williams,18,1:34.772,,
+2026,2,alonso,Fernando Alonso,Aston Martin,19,1:35.203,,
+2026,2,bottas,Valtteri Bottas,Cadillac F1 Team,20,1:35.436,,
+2026,2,stroll,Lance Stroll,Aston Martin,21,1:35.995,,
+2026,2,perez,Sergio Pérez,Cadillac F1 Team,22,1:36.906,,
+2026,3,antonelli,Andrea Kimi Antonelli,Mercedes,1,1:30.035,1:29.048,1:28.778
+2026,3,russell,George Russell,Mercedes,2,1:29.967,1:29.686,1:29.076
+2026,3,piastri,Oscar Piastri,McLaren,3,1:30.200,1:29.451,1:29.132
+2026,3,leclerc,Charles Leclerc,Ferrari,4,1:29.915,1:29.303,1:29.405
+2026,3,norris,Lando Norris,McLaren,5,1:30.401,1:29.795,1:29.409
+2026,3,hamilton,Lewis Hamilton,Ferrari,6,1:30.309,1:29.589,1:29.567
+2026,3,gasly,Pierre Gasly,Alpine F1 Team,7,1:30.584,1:29.874,1:29.691
+2026,3,hadjar,Isack Hadjar,Red Bull,8,1:30.662,1:30.104,1:29.978
+2026,3,bortoleto,Gabriel Bortoleto,Audi,9,1:30.359,1:29.990,1:30.274
+2026,3,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,1:30.781,1:30.109,1:30.319
+2026,3,max_verstappen,Max Verstappen,Red Bull,11,1:30.519,1:30.262,
+2026,3,ocon,Esteban Ocon,Haas F1 Team,12,1:30.915,1:30.309,
+2026,3,hulkenberg,Nico Hülkenberg,Audi,13,1:30.358,1:30.387,
+2026,3,lawson,Liam Lawson,RB F1 Team,14,1:30.657,1:30.495,
+2026,3,colapinto,Franco Colapinto,Alpine F1 Team,15,1:30.931,1:30.627,
+2026,3,sainz,Carlos Sainz,Williams,16,1:30.927,1:31.033,
+2026,3,albon,Alexander Albon,Williams,17,1:31.088,,
+2026,3,bearman,Oliver Bearman,Haas F1 Team,18,1:31.090,,
+2026,3,perez,Sergio Pérez,Cadillac F1 Team,19,1:32.206,,
+2026,3,bottas,Valtteri Bottas,Cadillac F1 Team,20,1:32.330,,
+2026,3,alonso,Fernando Alonso,Aston Martin,21,1:32.646,,
+2026,3,stroll,Lance Stroll,Aston Martin,22,1:32.920,,
+2026,4,antonelli,Andrea Kimi Antonelli,Mercedes,1,1:28.653,1:28.289,1:27.798
+2026,4,max_verstappen,Max Verstappen,Red Bull,2,1:29.099,1:28.116,1:27.964
+2026,4,leclerc,Charles Leclerc,Ferrari,3,1:28.938,1:28.315,1:28.143
+2026,4,norris,Lando Norris,McLaren,4,1:29.183,1:28.920,1:28.183
+2026,4,russell,George Russell,Mercedes,5,1:29.492,1:28.477,1:28.197
+2026,4,hamilton,Lewis Hamilton,Ferrari,6,1:29.483,1:28.477,1:28.319
+2026,4,piastri,Oscar Piastri,McLaren,7,1:29.920,1:28.332,1:28.500
+2026,4,colapinto,Franco Colapinto,Alpine F1 Team,8,1:29.584,1:28.975,1:28.762
+2026,4,gasly,Pierre Gasly,Alpine F1 Team,9,1:29.914,1:29.070,1:28.810
+2026,4,hulkenberg,Nico Hülkenberg,Audi,10,1:29.645,1:29.439,
+2026,4,lawson,Liam Lawson,RB F1 Team,11,1:29.595,1:29.499,
+2026,4,bearman,Oliver Bearman,Haas F1 Team,12,1:29.340,1:29.567,
+2026,4,sainz,Carlos Sainz,Williams,13,1:29.540,1:29.568,
+2026,4,ocon,Esteban Ocon,Haas F1 Team,14,1:29.838,1:29.772,
+2026,4,albon,Alexander Albon,Williams,15,1:29.720,1:29.946,
+2026,4,arvid_lindblad,Arvid Lindblad,RB F1 Team,16,1:30.133,,
+2026,4,alonso,Fernando Alonso,Aston Martin,17,1:31.098,,
+2026,4,stroll,Lance Stroll,Aston Martin,18,1:31.164,,
+2026,4,bottas,Valtteri Bottas,Cadillac F1 Team,19,1:31.629,,
+2026,4,perez,Sergio Pérez,Cadillac F1 Team,20,1:31.967,,
+2026,4,bortoleto,Gabriel Bortoleto,Audi,21,1:33.737,,
+2026,4,hadjar,Isack Hadjar,Red Bull,22,,,
+2026,5,russell,George Russell,Mercedes,1,1:13.953,1:13.079,1:12.578
+2026,5,antonelli,Andrea Kimi Antonelli,Mercedes,2,1:13.380,1:13.076,1:12.646
+2026,5,norris,Lando Norris,McLaren,3,1:13.503,1:13.049,1:12.729
+2026,5,piastri,Oscar Piastri,McLaren,4,1:13.559,1:13.285,1:12.781
+2026,5,hamilton,Lewis Hamilton,Ferrari,5,1:13.767,1:13.041,1:12.868
+2026,5,max_verstappen,Max Verstappen,Red Bull,6,1:14.067,1:13.479,1:12.907
+2026,5,hadjar,Isack Hadjar,Red Bull,7,1:13.654,1:12.975,1:12.935
+2026,5,leclerc,Charles Leclerc,Ferrari,8,1:13.825,1:13.496,1:12.976
+2026,5,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,1:13.895,1:13.548,1:13.280
+2026,5,colapinto,Franco Colapinto,Alpine F1 Team,10,1:14.466,1:13.857,1:13.697
+2026,5,hulkenberg,Nico Hülkenberg,Audi,11,1:14.562,1:13.886,
+2026,5,lawson,Liam Lawson,RB F1 Team,12,1:14.346,1:13.897,
+2026,5,bortoleto,Gabriel Bortoleto,Audi,13,1:14.775,1:14.071,
+2026,5,sainz,Carlos Sainz,Williams,15,1:14.276,1:14.273,
+2026,5,bearman,Oliver Bearman,Haas F1 Team,16,1:14.449,1:14.416,
+2026,5,gasly,Pierre Gasly,Alpine F1 Team,14,1:14.698,1:14.187,
+2026,5,ocon,Esteban Ocon,Haas F1 Team,17,1:14.845,,
+2026,5,albon,Alexander Albon,Williams,18,1:14.851,,
+2026,5,alonso,Fernando Alonso,Aston Martin,19,1:15.196,,
+2026,5,perez,Sergio Pérez,Cadillac F1 Team,20,1:15.429,,
+2026,5,stroll,Lance Stroll,Aston Martin,21,1:16.195,,
+2026,5,bottas,Valtteri Bottas,Cadillac F1 Team,22,1:16.272,,
+2026,6,antonelli,Andrea Kimi Antonelli,Mercedes,1,1:13.599,1:12.704,1:12.051
+2026,6,max_verstappen,Max Verstappen,Red Bull,2,1:13.490,1:12.499,1:12.094
+2026,6,hamilton,Lewis Hamilton,Ferrari,3,1:13.777,1:12.934,1:12.279
+2026,6,leclerc,Charles Leclerc,Ferrari,4,1:13.293,1:12.774,1:12.351
+2026,6,hadjar,Isack Hadjar,Red Bull,5,1:14.408,1:12.722,1:12.434
+2026,6,russell,George Russell,Mercedes,6,1:14.214,1:13.238,1:12.445
+2026,6,piastri,Oscar Piastri,McLaren,7,1:14.159,1:12.983,1:12.624
+2026,6,norris,Lando Norris,McLaren,8,1:13.630,1:12.919,1:12.765
+2026,6,gasly,Pierre Gasly,Alpine F1 Team,9,1:14.469,1:13.762,1:13.226
+2026,6,lawson,Liam Lawson,RB F1 Team,10,1:14.498,1:13.471,1:13.412
+2026,6,albon,Alexander Albon,Williams,11,1:14.321,1:13.787,
+2026,6,sainz,Carlos Sainz,Williams,12,1:14.348,1:13.815,
+2026,6,hulkenberg,Nico Hülkenberg,Audi,13,1:13.923,1:13.902,
+2026,6,colapinto,Franco Colapinto,Alpine F1 Team,14,1:14.573,1:13.995,
+2026,6,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,1:14.685,1:14.248,
+2026,6,bortoleto,Gabriel Bortoleto,Audi,16,1:14.683,,
+2026,6,ocon,Esteban Ocon,Haas F1 Team,17,1:14.722,,
+2026,6,perez,Sergio Pérez,Cadillac F1 Team,18,1:14.747,,
+2026,6,bearman,Oliver Bearman,Haas F1 Team,19,1:14.814,,
+2026,6,bottas,Valtteri Bottas,Cadillac F1 Team,20,1:15.283,,
+2026,6,alonso,Fernando Alonso,Aston Martin,21,1:15.349,,
+2026,6,stroll,Lance Stroll,Aston Martin,22,1:16.061,,
+2026,7,russell,George Russell,Mercedes,1,1:15.717,1:15.228,1:14.679
+2026,7,hamilton,Lewis Hamilton,Ferrari,2,1:15.625,1:15.418,1:14.743
+2026,7,antonelli,Andrea Kimi Antonelli,Mercedes,3,1:15.977,1:15.295,1:14.998
+2026,7,norris,Lando Norris,McLaren,4,1:16.287,1:15.361,1:15.001
+2026,7,max_verstappen,Max Verstappen,Red Bull,5,1:16.352,1:15.484,1:15.021
+2026,7,hadjar,Isack Hadjar,Red Bull,6,1:16.427,1:15.754,1:15.077
+2026,7,piastri,Oscar Piastri,McLaren,7,1:16.138,1:15.518,1:15.090
+2026,7,lawson,Liam Lawson,RB F1 Team,8,1:16.673,1:15.585,1:16.542
+2026,7,hulkenberg,Nico Hülkenberg,Audi,9,1:16.066,1:15.768,1:16.657
+2026,7,leclerc,Charles Leclerc,Ferrari,10,1:15.964,1:15.281,
+2026,7,arvid_lindblad,Arvid Lindblad,RB F1 Team,11,1:16.425,1:15.840,
+2026,7,bortoleto,Gabriel Bortoleto,Audi,12,1:16.616,1:16.001,
+2026,7,colapinto,Franco Colapinto,Alpine F1 Team,13,1:16.590,1:16.191,
+2026,7,gasly,Pierre Gasly,Alpine F1 Team,14,1:16.599,1:16.261,
+2026,7,bearman,Oliver Bearman,Haas F1 Team,15,1:16.571,1:16.389,
+2026,7,sainz,Carlos Sainz,Williams,16,1:16.881,1:17.827,
+2026,7,ocon,Esteban Ocon,Haas F1 Team,17,1:17.073,,
+2026,7,albon,Alexander Albon,Williams,18,1:17.424,,
+2026,7,perez,Sergio Pérez,Cadillac F1 Team,19,1:17.545,,
+2026,7,bottas,Valtteri Bottas,Cadillac F1 Team,20,1:17.757,,
+2026,7,stroll,Lance Stroll,Aston Martin,21,1:18.758,,
+2026,7,alonso,Fernando Alonso,Aston Martin,22,1:18.815,,
+2026,8,russell,George Russell,Mercedes,1,1:07.398,1:06.979,1:06.113
+2026,8,leclerc,Charles Leclerc,Ferrari,2,1:07.543,1:07.030,1:06.349
+2026,8,hamilton,Lewis Hamilton,Ferrari,3,1:07.290,1:06.994,1:06.408
+2026,8,antonelli,Andrea Kimi Antonelli,Mercedes,4,1:07.083,1:06.763,1:06.414
+2026,8,max_verstappen,Max Verstappen,Red Bull,5,1:07.407,1:07.183,1:06.475
+2026,8,norris,Lando Norris,McLaren,6,1:07.259,1:06.897,1:06.502
+2026,8,piastri,Oscar Piastri,McLaren,7,1:07.487,1:06.890,1:06.511
+2026,8,hadjar,Isack Hadjar,Red Bull,8,1:07.408,1:07.086,1:06.632
+2026,8,lawson,Liam Lawson,RB F1 Team,9,1:07.385,1:07.136,1:06.955
+2026,8,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,1:07.549,1:07.155,1:07.007
+2026,8,gasly,Pierre Gasly,Alpine F1 Team,11,1:08.038,1:07.223,
+2026,8,bortoleto,Gabriel Bortoleto,Audi,12,1:08.035,1:07.293,
+2026,8,bearman,Oliver Bearman,Haas F1 Team,13,1:08.061,1:07.523,
+2026,8,hulkenberg,Nico Hülkenberg,Audi,14,1:08.066,1:07.611,
+2026,8,ocon,Esteban Ocon,Haas F1 Team,15,1:08.231,1:07.817,
+2026,8,colapinto,Franco Colapinto,Alpine F1 Team,16,1:07.894,1:08.171,
+2026,8,sainz,Carlos Sainz,Williams,17,1:08.252,,
+2026,8,albon,Alexander Albon,Williams,18,1:08.509,,
+2026,8,perez,Sergio Pérez,Cadillac F1 Team,19,1:08.945,,
+2026,8,bottas,Valtteri Bottas,Cadillac F1 Team,20,1:09.030,,
+2026,8,alonso,Fernando Alonso,Aston Martin,21,1:09.942,,
+2026,8,stroll,Lance Stroll,Aston Martin,22,1:10.363,,
+2026,9,antonelli,Andrea Kimi Antonelli,Mercedes,1,1:29.719,1:28.493,1:28.111
+2026,9,leclerc,Charles Leclerc,Ferrari,2,1:29.534,1:28.626,1:28.286
+2026,9,hamilton,Lewis Hamilton,Ferrari,3,1:29.644,1:28.864,1:28.458
+2026,9,russell,George Russell,Mercedes,4,1:29.985,1:28.920,1:28.481
+2026,9,hadjar,Isack Hadjar,Red Bull,5,1:29.276,1:29.069,1:28.746
+2026,9,norris,Lando Norris,McLaren,6,1:30.186,1:29.383,1:28.877
+2026,9,max_verstappen,Max Verstappen,Red Bull,7,1:29.549,1:29.113,1:28.893
+2026,9,piastri,Oscar Piastri,McLaren,8,1:29.971,1:29.218,1:29.032
+2026,9,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,1:29.661,1:29.324,1:29.305
+2026,9,lawson,Liam Lawson,RB F1 Team,10,1:29.300,1:29.429,1:29.716
+2026,9,bortoleto,Gabriel Bortoleto,Audi,11,1:30.269,1:29.461,
+2026,9,gasly,Pierre Gasly,Alpine F1 Team,12,1:30.345,1:30.063,
+2026,9,hulkenberg,Nico Hülkenberg,Audi,13,1:29.539,1:30.076,
+2026,9,bearman,Oliver Bearman,Haas F1 Team,14,1:30.570,1:30.501,
+2026,9,sainz,Carlos Sainz,Williams,15,1:30.562,1:30.623,
+2026,9,albon,Alexander Albon,Williams,16,1:30.638,1:31.341,
+2026,9,ocon,Esteban Ocon,Haas F1 Team,17,1:30.680,,
+2026,9,bottas,Valtteri Bottas,Cadillac F1 Team,18,1:31.227,,
+2026,9,colapinto,Franco Colapinto,Alpine F1 Team,19,1:31.321,,
+2026,9,perez,Sergio Pérez,Cadillac F1 Team,20,1:31.451,,
+2026,9,stroll,Lance Stroll,Aston Martin,21,1:32.863,,
+2026,9,alonso,Fernando Alonso,Aston Martin,22,1:33.025,,
+2026,10,antonelli,Andrea Kimi Antonelli,Mercedes,1,1:46.304,1:45.142,1:44.361
+2026,10,max_verstappen,Max Verstappen,Red Bull,2,1:45.930,1:45.589,1:44.678
+2026,10,norris,Lando Norris,McLaren,3,1:45.865,1:45.454,1:44.801
+2026,10,leclerc,Charles Leclerc,Ferrari,5,1:46.278,1:45.397,1:44.893
+2026,10,hadjar,Isack Hadjar,Red Bull,10,1:46.062,1:45.823,
+2026,10,russell,George Russell,Mercedes,4,1:46.185,1:45.689,1:44.869
+2026,10,hamilton,Lewis Hamilton,Ferrari,6,1:46.124,1:45.543,1:44.895
+2026,10,piastri,Oscar Piastri,McLaren,7,1:46.433,1:45.671,1:45.016
+2026,10,arvid_lindblad,Arvid Lindblad,RB F1 Team,8,1:46.191,1:45.629,1:45.143
+2026,10,bortoleto,Gabriel Bortoleto,Audi,9,1:46.609,1:46.082,1:45.628
+2026,10,lawson,Liam Lawson,RB F1 Team,11,1:46.501,1:46.120,
+2026,10,gasly,Pierre Gasly,Alpine F1 Team,12,1:46.679,1:46.331,
+2026,10,colapinto,Franco Colapinto,Alpine F1 Team,13,1:46.795,1:46.392,
+2026,10,hulkenberg,Nico Hülkenberg,Audi,14,1:46.893,1:46.671,
+2026,10,sainz,Carlos Sainz,Williams,15,1:47.080,1:46.777,
+2026,10,bearman,Oliver Bearman,Haas F1 Team,16,1:47.113,1:46.779,
+2026,10,albon,Alexander Albon,Williams,17,1:47.120,,
+2026,10,ocon,Esteban Ocon,Haas F1 Team,18,1:47.801,,
+2026,10,bottas,Valtteri Bottas,Cadillac F1 Team,19,1:47.823,,
+2026,10,perez,Sergio Pérez,Cadillac F1 Team,20,1:47.971,,
+2026,10,alonso,Fernando Alonso,Aston Martin,21,1:50.002,,
+2026,10,stroll,Lance Stroll,Aston Martin,22,1:50.177,,
+2026,11,norris,Lando Norris,McLaren,1,1:18.277,1:17.456,1:17.207
+2026,11,hamilton,Lewis Hamilton,Ferrari,2,1:18.730,1:17.803,1:17.219
+2026,11,leclerc,Charles Leclerc,Ferrari,3,1:18.984,1:17.626,1:17.445
+2026,11,antonelli,Andrea Kimi Antonelli,Mercedes,4,1:18.726,1:18.393,1:17.479
+2026,11,piastri,Oscar Piastri,McLaren,5,1:18.891,1:17.928,1:17.684
+2026,11,max_verstappen,Max Verstappen,Red Bull,6,1:18.656,1:18.249,1:17.725
+2026,11,russell,George Russell,Mercedes,7,1:18.856,1:18.445,1:17.760
+2026,11,hadjar,Isack Hadjar,Red Bull,8,1:18.754,1:17.872,1:17.856
+2026,11,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,1:19.233,1:18.360,1:18.281
+2026,11,hulkenberg,Nico Hülkenberg,Audi,10,1:18.796,1:18.639,1:18.686
+2026,11,lawson,Liam Lawson,RB F1 Team,11,1:19.161,1:18.765,
+2026,11,gasly,Pierre Gasly,Alpine F1 Team,12,1:19.741,1:18.844,
+2026,11,colapinto,Franco Colapinto,Alpine F1 Team,13,1:19.771,1:19.027,
+2026,11,bortoleto,Gabriel Bortoleto,Audi,14,1:19.069,1:19.105,
+2026,11,ocon,Esteban Ocon,Haas F1 Team,15,1:20.010,1:19.734,
+2026,11,alonso,Fernando Alonso,Aston Martin,16,1:20.126,1:19.808,
+2026,11,bearman,Oliver Bearman,Haas F1 Team,17,1:20.233,,
+2026,11,sainz,Carlos Sainz,Williams,18,1:20.621,,
+2026,11,albon,Alexander Albon,Williams,19,1:20.658,,
+2026,11,stroll,Lance Stroll,Aston Martin,20,1:20.659,,
+2026,11,bottas,Valtteri Bottas,Cadillac F1 Team,21,1:20.886,,
+2026,11,perez,Sergio Pérez,Cadillac F1 Team,22,1:21.322,,
+2026,12,norris,Lando Norris,McLaren,1,1:12.695,1:11.628,1:11.163
+2026,12,russell,George Russell,Mercedes,2,1:12.924,1:11.959,1:11.265
+2026,12,antonelli,Andrea Kimi Antonelli,Mercedes,3,1:13.022,1:11.915,1:11.296
+2026,12,piastri,Oscar Piastri,McLaren,4,1:12.610,1:11.641,1:11.305
+2026,12,hamilton,Lewis Hamilton,Ferrari,5,1:12.673,1:11.970,1:11.494
+2026,12,leclerc,Charles Leclerc,Ferrari,6,1:13.064,1:11.910,1:11.558
+2026,12,max_verstappen,Max Verstappen,Red Bull,7,1:13.290,1:11.874,1:11.618
+2026,12,lawson,Liam Lawson,Red Bull,8,1:13.392,1:12.301,1:11.733
+2026,12,bortoleto,Gabriel Bortoleto,Audi,9,1:13.142,1:12.433,1:12.079
+2026,12,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,1:13.074,1:12.525,1:12.185
+2026,12,gasly,Pierre Gasly,Alpine F1 Team,11,1:13.115,1:12.616,
+2026,12,tsunoda,Yuki Tsunoda,RB F1 Team,12,1:13.085,1:12.627,
+2026,12,hulkenberg,Nico Hülkenberg,Audi,13,1:13.188,1:12.797,
+2026,12,colapinto,Franco Colapinto,Alpine F1 Team,14,1:13.322,1:12.800,
+2026,12,ocon,Esteban Ocon,Haas F1 Team,15,1:13.544,1:13.137,
+2026,12,albon,Alexander Albon,Williams,16,1:13.552,1:13.182,
+2026,12,sainz,Carlos Sainz,Williams,17,1:13.574,,
+2026,12,alonso,Fernando Alonso,Aston Martin,18,1:13.650,,
+2026,12,stroll,Lance Stroll,Aston Martin,19,1:13.818,,
+2026,12,bearman,Oliver Bearman,Haas F1 Team,20,1:13.826,,
+2026,12,bottas,Valtteri Bottas,Cadillac F1 Team,21,1:14.371,,
+2026,12,perez,Sergio Pérez,Cadillac F1 Team,22,1:14.600,,
+2026,13,gasly,Pierre Gasly,Alpine F1 Team,1,1:22.612,1:22.077,1:21.786
+2026,13,russell,George Russell,Mercedes,2,1:22.779,1:22.161,1:21.846
+2026,13,piastri,Oscar Piastri,McLaren,3,1:22.924,1:22.017,1:21.966
+2026,13,leclerc,Charles Leclerc,Ferrari,4,1:22.902,1:22.509,1:22.004
+2026,13,hamilton,Lewis Hamilton,Ferrari,5,1:22.847,1:22.516,1:22.011
+2026,13,max_verstappen,Max Verstappen,Red Bull,6,1:22.631,1:22.188,1:22.070
+2026,13,antonelli,Andrea Kimi Antonelli,Mercedes,7,1:22.758,1:21.882,1:22.093
+2026,13,colapinto,Franco Colapinto,Alpine F1 Team,8,1:22.662,1:22.400,1:22.220
+2026,13,norris,Lando Norris,McLaren,9,1:22.659,1:22.067,1:22.256
+2026,13,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,1:22.727,1:22.345,1:22.286
+2026,13,bortoleto,Gabriel Bortoleto,Audi,11,1:22.946,1:22.517,
+2026,13,bearman,Oliver Bearman,Haas F1 Team,12,1:22.906,1:22.756,
+2026,13,hulkenberg,Nico Hülkenberg,Audi,13,1:23.440,1:22.779,
+2026,13,lawson,Liam Lawson,Red Bull,14,1:22.989,1:22.821,
+2026,13,sainz,Carlos Sainz,Williams,15,1:23.616,1:23.453,
+2026,13,ocon,Esteban Ocon,Haas F1 Team,16,1:23.466,1:23.454,
+2026,13,tsunoda,Yuki Tsunoda,RB F1 Team,17,1:23.755,,
+2026,13,albon,Alexander Albon,Williams,18,1:24.356,,
+2026,13,bottas,Valtteri Bottas,Cadillac F1 Team,19,1:24.364,,
+2026,13,perez,Sergio Pérez,Cadillac F1 Team,20,1:24.595,,
+2026,13,alonso,Fernando Alonso,Aston Martin,21,1:25.150,,
+2026,13,stroll,Lance Stroll,Aston Martin,22,1:25.222,,
+2026,14,norris,Lando Norris,McLaren,1,1:33.469,1:32.873,1:31.824
+2026,14,antonelli,Andrea Kimi Antonelli,Mercedes,2,1:33.267,1:32.591,1:31.835
+2026,14,max_verstappen,Max Verstappen,Red Bull,3,1:33.381,1:32.431,1:31.964
+2026,14,hamilton,Lewis Hamilton,Ferrari,4,1:33.531,1:32.710,1:32.013
+2026,14,leclerc,Charles Leclerc,Ferrari,5,1:33.532,1:32.755,1:32.019
+2026,14,russell,George Russell,Mercedes,6,1:33.211,1:32.850,1:32.149
+2026,14,piastri,Oscar Piastri,McLaren,7,1:33.829,1:33.204,1:32.294
+2026,14,lawson,Liam Lawson,Red Bull,8,1:33.310,1:32.780,1:32.316
+2026,14,colapinto,Franco Colapinto,Alpine F1 Team,9,1:33.963,1:33.038,1:32.903
+2026,14,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,1:34.340,1:33.204,1:33.041
+2026,14,hulkenberg,Nico Hülkenberg,Audi,11,1:34.417,1:33.223,
+2026,14,bortoleto,Gabriel Bortoleto,Audi,12,1:33.986,1:33.388,
+2026,14,ocon,Esteban Ocon,Haas F1 Team,13,1:34.667,1:33.667,
+2026,14,gasly,Pierre Gasly,Alpine F1 Team,14,1:34.246,1:33.753,
+2026,14,tsunoda,Yuki Tsunoda,RB F1 Team,15,1:34.311,1:34.084,
+2026,14,albon,Alexander Albon,Williams,16,1:35.307,1:35.532,
+2026,14,sainz,Carlos Sainz,Williams,17,1:35.312,,
+2026,14,alonso,Fernando Alonso,Aston Martin,18,1:35.388,,
+2026,14,perez,Sergio Pérez,Cadillac F1 Team,19,1:35.913,,
+2026,14,bottas,Valtteri Bottas,Cadillac F1 Team,20,1:38.011,,
+2026,15,russell,George Russell,Mercedes,1,1:43.615,1:43.462,1:42.526
+2026,15,leclerc,Charles Leclerc,Ferrari,2,1:44.360,1:43.780,1:43.363
+2026,15,piastri,Oscar Piastri,McLaren,3,1:45.014,1:43.814,1:43.364
+2026,15,hadjar,Isack Hadjar,Red Bull,4,1:44.161,1:43.880,1:43.500
+2026,15,norris,Lando Norris,McLaren,5,1:44.571,1:44.020,1:43.672
+2026,15,hamilton,Lewis Hamilton,Ferrari,6,1:44.260,1:44.037,1:43.858
+2026,15,gasly,Pierre Gasly,Alpine F1 Team,7,1:44.489,1:44.106,1:44.047
+2026,15,max_verstappen,Max Verstappen,Red Bull,8,1:44.041,1:43.706,1:44.081
+2026,15,sainz,Carlos Sainz,Williams,9,1:45.104,1:44.629,1:44.566
+2026,15,colapinto,Franco Colapinto,Alpine F1 Team,10,1:45.106,1:44.683,1:44.963
+2026,15,bearman,Oliver Bearman,Haas F1 Team,11,1:45.228,1:44.775,
+2026,15,lawson,Liam Lawson,RB F1 Team,12,1:45.535,1:44.860,
+2026,15,albon,Alexander Albon,Williams,13,1:45.031,1:45.001,
+2026,15,ocon,Esteban Ocon,Haas F1 Team,14,1:45.039,1:45.016,
+2026,15,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,1:45.381,1:45.106,
+2026,15,antonelli,Andrea Kimi Antonelli,Mercedes,16,1:45.504,,
+2026,15,bortoleto,Gabriel Bortoleto,Audi,17,1:45.799,,
+2026,15,hulkenberg,Nico Hülkenberg,Audi,18,1:45.920,,
+2026,15,alonso,Fernando Alonso,Aston Martin,19,1:46.593,,
+2026,15,perez,Sergio Pérez,Cadillac F1 Team,20,1:46.658,,
+2026,15,stroll,Lance Stroll,Aston Martin,21,1:47.337,,
+2026,15,bottas,Valtteri Bottas,Cadillac F1 Team,22,1:48.290,,

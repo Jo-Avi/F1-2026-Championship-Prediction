@@ -1,0 +1,12 @@
+season,round,constructor_id,constructor,championship_position,championship_points,wins
+2026,15,mercedes,Mercedes,1,538.0,11
+2026,15,ferrari,Ferrari,2,378.0,2
+2026,15,mclaren,McLaren,3,306.0,2
+2026,15,red_bull,Red Bull,4,263.0,0
+2026,15,rb,RB F1 Team,5,83.0,0
+2026,15,alpine,Alpine F1 Team,6,68.0,0
+2026,15,haas,Haas F1 Team,7,27.0,0
+2026,15,audi,Audi,8,17.0,0
+2026,15,williams,Williams,9,12.0,0
+2026,15,aston_martin,Aston Martin,10,3.0,0
+2026,15,cadillac,Cadillac F1 Team,11,0.0,0

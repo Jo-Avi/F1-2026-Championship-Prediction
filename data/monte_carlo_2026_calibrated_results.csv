@@ -1,0 +1,23 @@
+driver_id,driver,constructor,current_points,expected_final_points,final_points_std,expected_final_position,most_likely_final_position,championship_probability,championship_wins,raw_championship_probability,calibrated_championship_probability
+antonelli,Andrea Kimi Antonelli,Mercedes,302.0,409.12,24.72,1.01,1,98.52,9852,98.52,54.72
+russell,George Russell,Mercedes,236.0,327.97,24.42,2.08,2,1.46,146,1.46,25.79
+hamilton,Lewis Hamilton,Ferrari,199.0,273.81,23.57,3.5,3,0.02,2,0.02,11.99
+leclerc,Charles Leclerc,Ferrari,179.0,249.8,23.63,4.52,5,0.0,0,0.0,0.39
+norris,Lando Norris,McLaren,186.0,249.83,23.09,4.54,5,0.0,0,0.0,0.39
+max_verstappen,Max Verstappen,Red Bull,163.0,223.37,23.04,5.71,6,0.0,0,0.0,0.39
+piastri,Oscar Piastri,McLaren,120.0,198.08,22.64,6.66,7,0.0,0,0.0,0.39
+hadjar,Isack Hadjar,Red Bull,86.0,138.33,21.0,8.03,8,0.0,0,0.0,0.39
+lawson,Liam Lawson,RB F1 Team,59.0,91.9,16.53,9.43,9,0.0,0,0.0,0.39
+gasly,Pierre Gasly,Alpine F1 Team,41.0,75.01,17.09,10.43,10,0.0,0,0.0,0.39
+arvid_lindblad,Arvid Lindblad,RB F1 Team,37.0,67.67,15.62,10.91,11,0.0,0,0.0,0.39
+colapinto,Franco Colapinto,Alpine F1 Team,27.0,59.22,16.15,11.55,12,0.0,0,0.0,0.39
+bearman,Oliver Bearman,Haas F1 Team,20.0,33.66,10.9,13.96,13,0.0,0,0.0,0.39
+bortoleto,Gabriel Bortoleto,Audi,10.0,29.81,12.2,14.68,14,0.0,0,0.0,0.39
+ocon,Esteban Ocon,Haas F1 Team,7.0,22.86,11.45,15.97,16,0.0,0,0.0,0.39
+hulkenberg,Nico Hülkenberg,Audi,7.0,18.55,9.81,16.92,16,0.0,0,0.0,0.39
+alonso,Fernando Alonso,Aston Martin,3.0,14.64,9.91,18.01,21,0.0,0,0.0,0.39
+sainz,Carlos Sainz,Williams,7.0,13.6,7.13,18.13,19,0.0,0,0.0,0.39
+albon,Alexander Albon,Williams,5.0,12.48,7.74,18.54,20,0.0,0,0.0,0.39
+stroll,Lance Stroll,Aston Martin,0.0,11.59,10.0,18.92,22,0.0,0,0.0,0.39
+bottas,Valtteri Bottas,Cadillac F1 Team,0.0,8.79,8.66,19.62,22,0.0,0,0.0,0.39
+perez,Sergio Pérez,Cadillac F1 Team,0.0,7.91,8.17,19.89,22,0.0,0,0.0,0.39

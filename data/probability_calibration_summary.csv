@@ -1,0 +1,4 @@
+method,parameter,brier_score,log_loss
+raw,0.0,0.697526,1.320972
+temperature_scaling,5.6000000000000005,0.381692,0.619425
+uniform_shrinkage,0.36,0.581276,1.45493

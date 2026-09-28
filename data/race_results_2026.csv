@@ -1,0 +1,331 @@
+season,round,race,circuit,driver_id,driver,constructor,grid,position,points,status,laps
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,russell,George Russell,Mercedes,1,1,25.0,Finished,58
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,antonelli,Andrea Kimi Antonelli,Mercedes,2,2,18.0,Finished,58
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,leclerc,Charles Leclerc,Ferrari,4,3,15.0,Finished,58
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,hamilton,Lewis Hamilton,Ferrari,7,4,12.0,Finished,58
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,norris,Lando Norris,McLaren,6,5,10.0,Finished,58
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,max_verstappen,Max Verstappen,Red Bull,20,6,8.0,Finished,58
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,bearman,Oliver Bearman,Haas F1 Team,12,7,6.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,8,4.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,bortoleto,Gabriel Bortoleto,Audi,10,9,2.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,gasly,Pierre Gasly,Alpine F1 Team,14,10,1.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,ocon,Esteban Ocon,Haas F1 Team,13,11,0.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,albon,Alexander Albon,Williams,15,12,0.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,lawson,Liam Lawson,RB F1 Team,8,13,0.0,Lapped,57
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,colapinto,Franco Colapinto,Alpine F1 Team,16,14,0.0,Lapped,56
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,sainz,Carlos Sainz,Williams,21,15,0.0,Lapped,56
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,perez,Sergio Pérez,Cadillac F1 Team,18,16,0.0,Lapped,55
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,stroll,Lance Stroll,Aston Martin,22,17,0.0,Lapped,43
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,alonso,Fernando Alonso,Aston Martin,17,18,0.0,Retired,21
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,bottas,Valtteri Bottas,Cadillac F1 Team,19,19,0.0,Retired,15
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,hadjar,Isack Hadjar,Red Bull,3,20,0.0,Retired,10
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,piastri,Oscar Piastri,McLaren,5,21,0.0,Did not start,0
+2026,1,Australian Grand Prix,Albert Park Grand Prix Circuit,hulkenberg,Nico Hülkenberg,Audi,11,22,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai International Circuit,antonelli,Andrea Kimi Antonelli,Mercedes,1,1,25.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,russell,George Russell,Mercedes,2,2,18.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,hamilton,Lewis Hamilton,Ferrari,3,3,15.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,leclerc,Charles Leclerc,Ferrari,4,4,12.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,bearman,Oliver Bearman,Haas F1 Team,10,5,10.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,gasly,Pierre Gasly,Alpine F1 Team,7,6,8.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,lawson,Liam Lawson,RB F1 Team,14,7,6.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,hadjar,Isack Hadjar,Red Bull,9,8,4.0,Finished,56
+2026,2,Chinese Grand Prix,Shanghai International Circuit,sainz,Carlos Sainz,Williams,17,9,2.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,colapinto,Franco Colapinto,Alpine F1 Team,12,10,1.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,hulkenberg,Nico Hülkenberg,Audi,11,11,0.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,12,0.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,bottas,Valtteri Bottas,Cadillac F1 Team,19,13,0.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,ocon,Esteban Ocon,Haas F1 Team,13,14,0.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,perez,Sergio Pérez,Cadillac F1 Team,21,15,0.0,Lapped,55
+2026,2,Chinese Grand Prix,Shanghai International Circuit,max_verstappen,Max Verstappen,Red Bull,8,16,0.0,Retired,45
+2026,2,Chinese Grand Prix,Shanghai International Circuit,alonso,Fernando Alonso,Aston Martin,18,17,0.0,Retired,32
+2026,2,Chinese Grand Prix,Shanghai International Circuit,stroll,Lance Stroll,Aston Martin,20,18,0.0,Retired,9
+2026,2,Chinese Grand Prix,Shanghai International Circuit,piastri,Oscar Piastri,McLaren,5,19,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai International Circuit,norris,Lando Norris,McLaren,6,20,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai International Circuit,bortoleto,Gabriel Bortoleto,Audi,16,21,0.0,Did not start,0
+2026,2,Chinese Grand Prix,Shanghai International Circuit,albon,Alexander Albon,Williams,22,22,0.0,Did not start,0
+2026,3,Japanese Grand Prix,Suzuka Circuit,antonelli,Andrea Kimi Antonelli,Mercedes,1,1,25.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,piastri,Oscar Piastri,McLaren,3,2,18.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,leclerc,Charles Leclerc,Ferrari,4,3,15.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,russell,George Russell,Mercedes,2,4,12.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,norris,Lando Norris,McLaren,5,5,10.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,hamilton,Lewis Hamilton,Ferrari,6,6,8.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,gasly,Pierre Gasly,Alpine F1 Team,7,7,6.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,max_verstappen,Max Verstappen,Red Bull,11,8,4.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,lawson,Liam Lawson,RB F1 Team,14,9,2.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,ocon,Esteban Ocon,Haas F1 Team,12,10,1.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,hulkenberg,Nico Hülkenberg,Audi,13,11,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,hadjar,Isack Hadjar,Red Bull,8,12,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,bortoleto,Gabriel Bortoleto,Audi,9,13,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,14,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,sainz,Carlos Sainz,Williams,16,15,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,colapinto,Franco Colapinto,Alpine F1 Team,15,16,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,perez,Sergio Pérez,Cadillac F1 Team,19,17,0.0,Finished,53
+2026,3,Japanese Grand Prix,Suzuka Circuit,alonso,Fernando Alonso,Aston Martin,21,18,0.0,Lapped,52
+2026,3,Japanese Grand Prix,Suzuka Circuit,bottas,Valtteri Bottas,Cadillac F1 Team,20,19,0.0,Lapped,52
+2026,3,Japanese Grand Prix,Suzuka Circuit,albon,Alexander Albon,Williams,17,20,0.0,Lapped,51
+2026,3,Japanese Grand Prix,Suzuka Circuit,stroll,Lance Stroll,Aston Martin,22,21,0.0,Retired,30
+2026,3,Japanese Grand Prix,Suzuka Circuit,bearman,Oliver Bearman,Haas F1 Team,18,22,0.0,Retired,20
+2026,4,Miami Grand Prix,Miami International Autodrome,antonelli,Andrea Kimi Antonelli,Mercedes,1,1,25.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,norris,Lando Norris,McLaren,4,2,18.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,piastri,Oscar Piastri,McLaren,7,3,15.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,russell,George Russell,Mercedes,5,4,12.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,max_verstappen,Max Verstappen,Red Bull,2,5,10.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,hamilton,Lewis Hamilton,Ferrari,6,6,8.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,colapinto,Franco Colapinto,Alpine F1 Team,8,7,6.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,leclerc,Charles Leclerc,Ferrari,3,8,4.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,sainz,Carlos Sainz,Williams,13,9,2.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,albon,Alexander Albon,Williams,15,10,1.0,Finished,57
+2026,4,Miami Grand Prix,Miami International Autodrome,bearman,Oliver Bearman,Haas F1 Team,12,11,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,bortoleto,Gabriel Bortoleto,Audi,21,12,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,ocon,Esteban Ocon,Haas F1 Team,14,13,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,arvid_lindblad,Arvid Lindblad,RB F1 Team,16,14,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,alonso,Fernando Alonso,Aston Martin,17,15,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,perez,Sergio Pérez,Cadillac F1 Team,20,16,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,stroll,Lance Stroll,Aston Martin,18,17,0.0,Lapped,56
+2026,4,Miami Grand Prix,Miami International Autodrome,bottas,Valtteri Bottas,Cadillac F1 Team,19,18,0.0,Lapped,55
+2026,4,Miami Grand Prix,Miami International Autodrome,hulkenberg,Nico Hülkenberg,Audi,10,19,0.0,Retired,7
+2026,4,Miami Grand Prix,Miami International Autodrome,lawson,Liam Lawson,RB F1 Team,11,20,0.0,Retired,6
+2026,4,Miami Grand Prix,Miami International Autodrome,gasly,Pierre Gasly,Alpine F1 Team,9,21,0.0,Retired,4
+2026,4,Miami Grand Prix,Miami International Autodrome,hadjar,Isack Hadjar,Red Bull,22,22,0.0,Retired,4
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,antonelli,Andrea Kimi Antonelli,Mercedes,2,1,25.0,Finished,68
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,hamilton,Lewis Hamilton,Ferrari,5,2,18.0,Finished,68
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,max_verstappen,Max Verstappen,Red Bull,6,3,15.0,Finished,68
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,leclerc,Charles Leclerc,Ferrari,8,4,12.0,Finished,68
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,hadjar,Isack Hadjar,Red Bull,7,5,10.0,Lapped,67
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,colapinto,Franco Colapinto,Alpine F1 Team,10,6,8.0,Lapped,67
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,lawson,Liam Lawson,RB F1 Team,12,7,6.0,Lapped,67
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,gasly,Pierre Gasly,Alpine F1 Team,14,8,4.0,Lapped,67
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,sainz,Carlos Sainz,Williams,15,9,2.0,Lapped,67
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,bearman,Oliver Bearman,Haas F1 Team,16,10,1.0,Lapped,67
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,piastri,Oscar Piastri,McLaren,4,11,0.0,Lapped,66
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,hulkenberg,Nico Hülkenberg,Audi,11,12,0.0,Lapped,66
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,bortoleto,Gabriel Bortoleto,Audi,13,13,0.0,Lapped,66
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,ocon,Esteban Ocon,Haas F1 Team,17,14,0.0,Lapped,66
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,stroll,Lance Stroll,Aston Martin,22,15,0.0,Lapped,64
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,bottas,Valtteri Bottas,Cadillac F1 Team,21,16,0.0,Lapped,64
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,perez,Sergio Pérez,Cadillac F1 Team,20,17,0.0,Retired,39
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,norris,Lando Norris,McLaren,3,18,0.0,Retired,38
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,russell,George Russell,Mercedes,1,19,0.0,Retired,29
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,alonso,Fernando Alonso,Aston Martin,19,20,0.0,Retired,23
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,albon,Alexander Albon,Williams,18,21,0.0,Retired,11
+2026,5,Canadian Grand Prix,Circuit Gilles Villeneuve,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,22,0.0,Did not start,0
+2026,6,Monaco Grand Prix,Circuit de Monaco,antonelli,Andrea Kimi Antonelli,Mercedes,1,1,25.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,hamilton,Lewis Hamilton,Ferrari,3,2,18.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,hadjar,Isack Hadjar,Red Bull,5,3,15.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,piastri,Oscar Piastri,McLaren,7,4,12.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,lawson,Liam Lawson,RB F1 Team,10,5,10.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,6,8.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,gasly,Pierre Gasly,Alpine F1 Team,9,7,6.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,albon,Alexander Albon,Williams,11,8,4.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,ocon,Esteban Ocon,Haas F1 Team,17,9,2.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,alonso,Fernando Alonso,Aston Martin,21,10,1.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,bortoleto,Gabriel Bortoleto,Audi,16,11,0.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,russell,George Russell,Mercedes,6,12,0.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,hulkenberg,Nico Hülkenberg,Audi,13,13,0.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,colapinto,Franco Colapinto,Alpine F1 Team,14,14,0.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,perez,Sergio Pérez,Cadillac F1 Team,18,15,0.0,Finished,78
+2026,6,Monaco Grand Prix,Circuit de Monaco,sainz,Carlos Sainz,Williams,12,16,0.0,Retired,70
+2026,6,Monaco Grand Prix,Circuit de Monaco,leclerc,Charles Leclerc,Ferrari,4,17,0.0,Retired,64
+2026,6,Monaco Grand Prix,Circuit de Monaco,stroll,Lance Stroll,Aston Martin,22,18,0.0,Retired,56
+2026,6,Monaco Grand Prix,Circuit de Monaco,norris,Lando Norris,McLaren,8,19,0.0,Retired,43
+2026,6,Monaco Grand Prix,Circuit de Monaco,bearman,Oliver Bearman,Haas F1 Team,19,20,0.0,Retired,27
+2026,6,Monaco Grand Prix,Circuit de Monaco,bottas,Valtteri Bottas,Cadillac F1 Team,20,21,0.0,Retired,15
+2026,6,Monaco Grand Prix,Circuit de Monaco,max_verstappen,Max Verstappen,Red Bull,2,22,0.0,Retired,0
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,hamilton,Lewis Hamilton,Ferrari,2,1,25.0,Finished,66
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,russell,George Russell,Mercedes,1,2,18.0,Finished,66
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,norris,Lando Norris,McLaren,4,3,15.0,Finished,66
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,max_verstappen,Max Verstappen,Red Bull,5,4,12.0,Finished,66
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,piastri,Oscar Piastri,McLaren,7,5,10.0,Finished,66
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,hadjar,Isack Hadjar,Red Bull,6,6,8.0,Lapped,65
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,gasly,Pierre Gasly,Alpine F1 Team,14,7,6.0,Lapped,65
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,lawson,Liam Lawson,RB F1 Team,8,8,4.0,Lapped,65
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,arvid_lindblad,Arvid Lindblad,RB F1 Team,11,9,2.0,Lapped,65
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,colapinto,Franco Colapinto,Alpine F1 Team,13,10,1.0,Lapped,65
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,bortoleto,Gabriel Bortoleto,Audi,12,11,0.0,Lapped,64
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,sainz,Carlos Sainz,Williams,16,12,0.0,Lapped,64
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,ocon,Esteban Ocon,Haas F1 Team,17,13,0.0,Lapped,64
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,perez,Sergio Pérez,Cadillac F1 Team,19,14,0.0,Lapped,63
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,leclerc,Charles Leclerc,Ferrari,10,15,0.0,Retired,62
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,antonelli,Andrea Kimi Antonelli,Mercedes,3,16,0.0,Retired,61
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,bearman,Oliver Bearman,Haas F1 Team,15,17,0.0,Retired,60
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,albon,Alexander Albon,Williams,18,18,0.0,Lapped,55
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,alonso,Fernando Alonso,Aston Martin,22,19,0.0,Retired,37
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,hulkenberg,Nico Hülkenberg,Audi,9,20,0.0,Retired,29
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,bottas,Valtteri Bottas,Cadillac F1 Team,20,21,0.0,Retired,15
+2026,7,Barcelona Grand Prix,Circuit de Barcelona-Catalunya,stroll,Lance Stroll,Aston Martin,21,22,0.0,Retired,5
+2026,8,Austrian Grand Prix,Red Bull Ring,russell,George Russell,Mercedes,1,1,25.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,max_verstappen,Max Verstappen,Red Bull,5,2,18.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,antonelli,Andrea Kimi Antonelli,Mercedes,4,3,15.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,piastri,Oscar Piastri,McLaren,7,4,12.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,hamilton,Lewis Hamilton,Ferrari,3,5,10.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,hadjar,Isack Hadjar,Red Bull,8,6,8.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,norris,Lando Norris,McLaren,6,7,6.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,leclerc,Charles Leclerc,Ferrari,2,8,4.0,Finished,71
+2026,8,Austrian Grand Prix,Red Bull Ring,lawson,Liam Lawson,RB F1 Team,9,9,2.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,10,1.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,bortoleto,Gabriel Bortoleto,Audi,12,11,0.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,hulkenberg,Nico Hülkenberg,Audi,14,12,0.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,gasly,Pierre Gasly,Alpine F1 Team,11,13,0.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,bearman,Oliver Bearman,Haas F1 Team,13,14,0.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,colapinto,Franco Colapinto,Alpine F1 Team,16,15,0.0,Lapped,70
+2026,8,Austrian Grand Prix,Red Bull Ring,ocon,Esteban Ocon,Haas F1 Team,15,16,0.0,Lapped,69
+2026,8,Austrian Grand Prix,Red Bull Ring,albon,Alexander Albon,Williams,18,17,0.0,Lapped,69
+2026,8,Austrian Grand Prix,Red Bull Ring,alonso,Fernando Alonso,Aston Martin,21,18,0.0,Lapped,68
+2026,8,Austrian Grand Prix,Red Bull Ring,stroll,Lance Stroll,Aston Martin,22,19,0.0,Retired,45
+2026,8,Austrian Grand Prix,Red Bull Ring,sainz,Carlos Sainz,Williams,17,20,0.0,Retired,23
+2026,8,Austrian Grand Prix,Red Bull Ring,perez,Sergio Pérez,Cadillac F1 Team,19,21,0.0,Retired,4
+2026,8,Austrian Grand Prix,Red Bull Ring,bottas,Valtteri Bottas,Cadillac F1 Team,20,22,0.0,Retired,2
+2026,9,British Grand Prix,Silverstone Circuit,leclerc,Charles Leclerc,Ferrari,2,1,25.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,russell,George Russell,Mercedes,4,2,18.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,hamilton,Lewis Hamilton,Ferrari,3,3,15.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,norris,Lando Norris,McLaren,6,4,12.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,hadjar,Isack Hadjar,Red Bull,5,5,10.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,lawson,Liam Lawson,RB F1 Team,10,6,8.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,7,6.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,bortoleto,Gabriel Bortoleto,Audi,11,8,4.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,colapinto,Franco Colapinto,Alpine F1 Team,19,9,2.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,gasly,Pierre Gasly,Alpine F1 Team,15,10,1.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,piastri,Oscar Piastri,McLaren,8,11,0.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,bearman,Oliver Bearman,Haas F1 Team,13,12,0.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,ocon,Esteban Ocon,Haas F1 Team,17,13,0.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,perez,Sergio Pérez,Cadillac F1 Team,20,14,0.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,antonelli,Andrea Kimi Antonelli,Mercedes,1,15,0.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,bottas,Valtteri Bottas,Cadillac F1 Team,18,16,0.0,Finished,52
+2026,9,British Grand Prix,Silverstone Circuit,sainz,Carlos Sainz,Williams,14,17,0.0,Lapped,51
+2026,9,British Grand Prix,Silverstone Circuit,alonso,Fernando Alonso,Aston Martin,21,18,0.0,Lapped,51
+2026,9,British Grand Prix,Silverstone Circuit,stroll,Lance Stroll,Aston Martin,22,19,0.0,Lapped,51
+2026,9,British Grand Prix,Silverstone Circuit,max_verstappen,Max Verstappen,Red Bull,7,20,0.0,Retired,46
+2026,9,British Grand Prix,Silverstone Circuit,albon,Alexander Albon,Williams,16,21,0.0,Retired,43
+2026,9,British Grand Prix,Silverstone Circuit,hulkenberg,Nico Hülkenberg,Audi,12,22,0.0,Retired,36
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,antonelli,Andrea Kimi Antonelli,Mercedes,1,1,25.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,leclerc,Charles Leclerc,Ferrari,4,2,18.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,max_verstappen,Max Verstappen,Red Bull,2,3,15.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,hamilton,Lewis Hamilton,Ferrari,5,4,12.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,piastri,Oscar Piastri,McLaren,6,5,10.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,hadjar,Isack Hadjar,Red Bull,21,6,8.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,norris,Lando Norris,McLaren,13,7,6.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,bortoleto,Gabriel Bortoleto,Audi,8,8,4.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,arvid_lindblad,Arvid Lindblad,RB F1 Team,7,9,2.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,colapinto,Franco Colapinto,Alpine F1 Team,11,10,1.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,gasly,Pierre Gasly,Alpine F1 Team,10,11,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,lawson,Liam Lawson,RB F1 Team,9,12,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,hulkenberg,Nico Hülkenberg,Audi,12,13,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,bearman,Oliver Bearman,Haas F1 Team,14,14,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,albon,Alexander Albon,Williams,15,15,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,sainz,Carlos Sainz,Williams,19,16,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,ocon,Esteban Ocon,Haas F1 Team,16,17,0.0,Finished,44
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,bottas,Valtteri Bottas,Cadillac F1 Team,17,18,0.0,Lapped,43
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,alonso,Fernando Alonso,Aston Martin,22,19,0.0,Lapped,42
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,stroll,Lance Stroll,Aston Martin,20,20,0.0,Retired,25
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,perez,Sergio Pérez,Cadillac F1 Team,18,21,0.0,Retired,13
+2026,10,Belgian Grand Prix,Circuit de Spa-Francorchamps,russell,George Russell,Mercedes,3,22,0.0,Retired,0
+2026,11,Hungarian Grand Prix,Hungaroring,norris,Lando Norris,McLaren,1,1,25.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,max_verstappen,Max Verstappen,Red Bull,4,2,18.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,antonelli,Andrea Kimi Antonelli,Mercedes,7,3,15.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,leclerc,Charles Leclerc,Ferrari,2,4,12.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,hamilton,Lewis Hamilton,Ferrari,5,5,10.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,hadjar,Isack Hadjar,Red Bull,8,6,8.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,russell,George Russell,Mercedes,6,7,6.0,Finished,70
+2026,11,Hungarian Grand Prix,Hungaroring,lawson,Liam Lawson,RB F1 Team,11,8,4.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,hulkenberg,Nico Hülkenberg,Audi,10,9,2.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,10,1.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,bortoleto,Gabriel Bortoleto,Audi,14,11,0.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,gasly,Pierre Gasly,Alpine F1 Team,12,12,0.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,stroll,Lance Stroll,Aston Martin,20,13,0.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,alonso,Fernando Alonso,Aston Martin,16,14,0.0,Lapped,69
+2026,11,Hungarian Grand Prix,Hungaroring,colapinto,Franco Colapinto,Alpine F1 Team,13,15,0.0,Lapped,68
+2026,11,Hungarian Grand Prix,Hungaroring,ocon,Esteban Ocon,Haas F1 Team,15,16,0.0,Lapped,68
+2026,11,Hungarian Grand Prix,Hungaroring,albon,Alexander Albon,Williams,19,17,0.0,Lapped,68
+2026,11,Hungarian Grand Prix,Hungaroring,sainz,Carlos Sainz,Williams,18,18,0.0,Lapped,68
+2026,11,Hungarian Grand Prix,Hungaroring,bearman,Oliver Bearman,Haas F1 Team,17,19,0.0,Lapped,68
+2026,11,Hungarian Grand Prix,Hungaroring,piastri,Oscar Piastri,McLaren,3,20,0.0,Retired,55
+2026,11,Hungarian Grand Prix,Hungaroring,perez,Sergio Pérez,Cadillac F1 Team,22,21,0.0,Retired,48
+2026,11,Hungarian Grand Prix,Hungaroring,bottas,Valtteri Bottas,Cadillac F1 Team,21,22,0.0,Retired,13
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,norris,Lando Norris,McLaren,1,1,25.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,antonelli,Andrea Kimi Antonelli,Mercedes,3,2,18.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,russell,George Russell,Mercedes,2,3,15.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,hamilton,Lewis Hamilton,Ferrari,5,4,12.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,leclerc,Charles Leclerc,Ferrari,6,5,10.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,piastri,Oscar Piastri,McLaren,4,6,8.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,lawson,Liam Lawson,Red Bull,8,7,6.0,Finished,72
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,hulkenberg,Nico Hülkenberg,Audi,13,8,4.0,Lapped,71
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,alonso,Fernando Alonso,Aston Martin,18,9,2.0,Lapped,71
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,gasly,Pierre Gasly,Alpine F1 Team,11,10,1.0,Lapped,71
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,tsunoda,Yuki Tsunoda,RB F1 Team,12,11,0.0,Lapped,71
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,12,0.0,Lapped,71
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,bortoleto,Gabriel Bortoleto,Audi,9,13,0.0,Lapped,71
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,colapinto,Franco Colapinto,Alpine F1 Team,14,14,0.0,Lapped,70
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,perez,Sergio Pérez,Cadillac F1 Team,22,15,0.0,Lapped,70
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,sainz,Carlos Sainz,Williams,17,16,0.0,Lapped,70
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,albon,Alexander Albon,Williams,16,17,0.0,Retired,66
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,bottas,Valtteri Bottas,Cadillac F1 Team,21,18,0.0,Retired,61
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,ocon,Esteban Ocon,Haas F1 Team,15,19,0.0,Retired,52
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,stroll,Lance Stroll,Aston Martin,19,20,0.0,Retired,45
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,bearman,Oliver Bearman,Haas F1 Team,20,21,0.0,Retired,2
+2026,12,Dutch Grand Prix,Circuit Park Zandvoort,max_verstappen,Max Verstappen,Red Bull,7,22,0.0,Retired,0
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,antonelli,Andrea Kimi Antonelli,Mercedes,19,1,25.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,russell,George Russell,Mercedes,2,2,18.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,max_verstappen,Max Verstappen,Red Bull,5,3,15.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,norris,Lando Norris,McLaren,8,4,12.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,piastri,Oscar Piastri,McLaren,6,5,10.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,hamilton,Lewis Hamilton,Ferrari,4,6,8.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,gasly,Pierre Gasly,Alpine F1 Team,1,7,6.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,8,4.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,colapinto,Franco Colapinto,Alpine F1 Team,7,9,2.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,tsunoda,Yuki Tsunoda,RB F1 Team,15,10,1.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,bortoleto,Gabriel Bortoleto,Audi,10,11,0.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,hulkenberg,Nico Hülkenberg,Audi,12,12,0.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,sainz,Carlos Sainz,Williams,13,13,0.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,lawson,Liam Lawson,Red Bull,22,14,0.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,bearman,Oliver Bearman,Haas F1 Team,11,15,0.0,Finished,53
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,ocon,Esteban Ocon,Haas F1 Team,14,16,0.0,Lapped,52
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,albon,Alexander Albon,Williams,20,17,0.0,Lapped,52
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,perez,Sergio Pérez,Cadillac F1 Team,17,18,0.0,Lapped,52
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,bottas,Valtteri Bottas,Cadillac F1 Team,16,19,0.0,Lapped,51
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,stroll,Lance Stroll,Aston Martin,18,20,0.0,Retired,26
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,alonso,Fernando Alonso,Aston Martin,21,21,0.0,Retired,23
+2026,13,Italian Grand Prix,Autodromo Nazionale di Monza,leclerc,Charles Leclerc,Ferrari,3,22,0.0,Retired,1
+2026,14,Spanish Grand Prix,Madring,antonelli,Andrea Kimi Antonelli,Mercedes,2,1,25.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,max_verstappen,Max Verstappen,Red Bull,3,2,18.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,norris,Lando Norris,McLaren,1,3,15.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,leclerc,Charles Leclerc,Ferrari,5,4,12.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,russell,George Russell,Mercedes,6,5,10.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,lawson,Liam Lawson,Red Bull,8,6,8.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,colapinto,Franco Colapinto,Alpine F1 Team,9,7,6.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,piastri,Oscar Piastri,McLaren,7,8,4.0,Finished,57
+2026,14,Spanish Grand Prix,Madring,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,9,2.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,hulkenberg,Nico Hülkenberg,Audi,11,10,1.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,ocon,Esteban Ocon,Haas F1 Team,13,11,0.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,gasly,Pierre Gasly,Alpine F1 Team,14,12,0.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,bortoleto,Gabriel Bortoleto,Audi,12,13,0.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,tsunoda,Yuki Tsunoda,RB F1 Team,15,14,0.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,albon,Alexander Albon,Williams,16,15,0.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,bearman,Oliver Bearman,Haas F1 Team,22,16,0.0,Lapped,56
+2026,14,Spanish Grand Prix,Madring,alonso,Fernando Alonso,Aston Martin,17,17,0.0,Lapped,55
+2026,14,Spanish Grand Prix,Madring,bottas,Valtteri Bottas,Cadillac F1 Team,19,18,0.0,Lapped,54
+2026,14,Spanish Grand Prix,Madring,sainz,Carlos Sainz,Williams,20,19,0.0,Retired,43
+2026,14,Spanish Grand Prix,Madring,perez,Sergio Pérez,Cadillac F1 Team,18,20,0.0,Retired,31
+2026,14,Spanish Grand Prix,Madring,stroll,Lance Stroll,Aston Martin,21,21,0.0,Retired,12
+2026,14,Spanish Grand Prix,Madring,hamilton,Lewis Hamilton,Ferrari,4,22,0.0,Retired,6
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,russell,George Russell,Mercedes,1,1,25.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,max_verstappen,Max Verstappen,Red Bull,8,2,18.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,hadjar,Isack Hadjar,Red Bull,4,3,15.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,leclerc,Charles Leclerc,Ferrari,2,4,12.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,antonelli,Andrea Kimi Antonelli,Mercedes,16,5,10.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,hamilton,Lewis Hamilton,Ferrari,6,6,8.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,7,6.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,ocon,Esteban Ocon,Haas F1 Team,13,8,4.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,bearman,Oliver Bearman,Haas F1 Team,10,9,2.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,sainz,Carlos Sainz,Williams,14,10,1.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,hulkenberg,Nico Hülkenberg,Audi,18,11,0.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,lawson,Liam Lawson,RB F1 Team,11,12,0.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,piastri,Oscar Piastri,McLaren,3,13,0.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,perez,Sergio Pérez,Cadillac F1 Team,20,14,0.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,bortoleto,Gabriel Bortoleto,Audi,17,15,0.0,Finished,51
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,bottas,Valtteri Bottas,Cadillac F1 Team,19,16,0.0,Retired,49
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,colapinto,Franco Colapinto,Alpine F1 Team,9,17,0.0,Retired,36
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,gasly,Pierre Gasly,Alpine F1 Team,7,18,0.0,Retired,35
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,norris,Lando Norris,McLaren,5,19,0.0,Retired,35
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,albon,Alexander Albon,Williams,12,20,0.0,Retired,29
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,alonso,Fernando Alonso,Aston Martin,21,21,0.0,Retired,20
+2026,15,Azerbaijan Grand Prix,Baku City Circuit,stroll,Lance Stroll,Aston Martin,22,22,0.0,Retired,7

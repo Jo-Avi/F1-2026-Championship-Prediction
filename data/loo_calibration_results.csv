@@ -1,0 +1,6 @@
+held_out_season,training_seasons,temperature,actual_champion,raw_predicted_champion,calibrated_predicted_champion,raw_actual_champion_probability,calibrated_actual_champion_probability,raw_brier_score,calibrated_brier_score,raw_log_loss,calibrated_log_loss,raw_correct,calibrated_correct
+2021,"2022,2023,2024,2025",5.1,Max Verstappen,Lewis Hamilton,Lewis Hamilton,12.51,38.6947,1.5309,0.696993,2.078642,0.949468,False,False
+2022,"2021,2023,2024,2025",6.3,Max Verstappen,Max Verstappen,Max Verstappen,99.96,66.0939,0.0,0.152629,0.0004,0.414094,True,True
+2023,"2021,2022,2024,2025",5.925,Max Verstappen,Max Verstappen,Max Verstappen,100.0,84.8003,0.0,0.024319,0.0,0.164871,True,True
+2024,"2021,2022,2023,2025",6.225,Max Verstappen,Max Verstappen,Max Verstappen,99.32,60.1731,9.2e-05,0.232538,0.006823,0.507945,True,True
+2025,"2021,2022,2023,2024",3.775,Lando Norris,Oscar Piastri,Oscar Piastri,1.09,23.0397,1.956638,1.170664,4.518992,1.46795,False,False

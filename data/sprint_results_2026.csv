@@ -1,0 +1,111 @@
+season,round,driver_id,driver,constructor,grid,position,points,status
+2026,2,russell,George Russell,Mercedes,1,1,8.0,Finished
+2026,2,leclerc,Charles Leclerc,Ferrari,6,2,7.0,Finished
+2026,2,hamilton,Lewis Hamilton,Ferrari,4,3,6.0,Finished
+2026,2,norris,Lando Norris,McLaren,3,4,5.0,Finished
+2026,2,antonelli,Andrea Kimi Antonelli,Mercedes,2,5,4.0,Finished
+2026,2,piastri,Oscar Piastri,McLaren,5,6,3.0,Finished
+2026,2,lawson,Liam Lawson,RB F1 Team,13,7,2.0,Finished
+2026,2,bearman,Oliver Bearman,Haas F1 Team,9,8,1.0,Finished
+2026,2,max_verstappen,Max Verstappen,Red Bull,8,9,0.0,Finished
+2026,2,ocon,Esteban Ocon,Haas F1 Team,12,10,0.0,Finished
+2026,2,gasly,Pierre Gasly,Alpine F1 Team,7,11,0.0,Finished
+2026,2,sainz,Carlos Sainz,Williams,17,12,0.0,Finished
+2026,2,bortoleto,Gabriel Bortoleto,Audi,14,13,0.0,Finished
+2026,2,colapinto,Franco Colapinto,Alpine F1 Team,16,14,0.0,Finished
+2026,2,hadjar,Isack Hadjar,Red Bull,10,15,0.0,Finished
+2026,2,albon,Alexander Albon,Williams,22,16,0.0,Finished
+2026,2,alonso,Fernando Alonso,Aston Martin,18,17,0.0,Finished
+2026,2,stroll,Lance Stroll,Aston Martin,19,18,0.0,Finished
+2026,2,perez,Sergio Pérez,Cadillac F1 Team,21,19,0.0,Finished
+2026,2,hulkenberg,Nico Hülkenberg,Audi,11,20,0.0,Retired
+2026,2,bottas,Valtteri Bottas,Cadillac F1 Team,20,21,0.0,Retired
+2026,2,arvid_lindblad,Arvid Lindblad,RB F1 Team,15,22,0.0,Retired
+2026,4,norris,Lando Norris,McLaren,1,1,8.0,Finished
+2026,4,piastri,Oscar Piastri,McLaren,3,2,7.0,Finished
+2026,4,leclerc,Charles Leclerc,Ferrari,4,3,6.0,Finished
+2026,4,russell,George Russell,Mercedes,6,4,5.0,Finished
+2026,4,max_verstappen,Max Verstappen,Red Bull,5,5,4.0,Finished
+2026,4,antonelli,Andrea Kimi Antonelli,Mercedes,2,6,3.0,Finished
+2026,4,hamilton,Lewis Hamilton,Ferrari,7,7,2.0,Finished
+2026,4,gasly,Pierre Gasly,Alpine F1 Team,10,8,1.0,Finished
+2026,4,hadjar,Isack Hadjar,Red Bull,9,9,0.0,Finished
+2026,4,colapinto,Franco Colapinto,Alpine F1 Team,8,10,0.0,Finished
+2026,4,ocon,Esteban Ocon,Haas F1 Team,16,11,0.0,Finished
+2026,4,bearman,Oliver Bearman,Haas F1 Team,13,12,0.0,Finished
+2026,4,sainz,Carlos Sainz,Williams,14,13,0.0,Finished
+2026,4,lawson,Liam Lawson,RB F1 Team,15,14,0.0,Finished
+2026,4,alonso,Fernando Alonso,Aston Martin,20,15,0.0,Finished
+2026,4,perez,Sergio Pérez,Cadillac F1 Team,17,16,0.0,Finished
+2026,4,stroll,Lance Stroll,Aston Martin,21,17,0.0,Finished
+2026,4,albon,Alexander Albon,Williams,18,18,0.0,Finished
+2026,4,bottas,Valtteri Bottas,Cadillac F1 Team,19,19,0.0,Finished
+2026,4,hulkenberg,Nico Hülkenberg,Audi,12,20,0.0,Did not start
+2026,4,arvid_lindblad,Arvid Lindblad,RB F1 Team,22,21,0.0,Did not start
+2026,4,bortoleto,Gabriel Bortoleto,Audi,11,22,0.0,Disqualified
+2026,5,russell,George Russell,Mercedes,1,1,8.0,Finished
+2026,5,norris,Lando Norris,McLaren,3,2,7.0,Finished
+2026,5,antonelli,Andrea Kimi Antonelli,Mercedes,2,3,6.0,Finished
+2026,5,piastri,Oscar Piastri,McLaren,4,4,5.0,Finished
+2026,5,leclerc,Charles Leclerc,Ferrari,6,5,4.0,Finished
+2026,5,hamilton,Lewis Hamilton,Ferrari,5,6,3.0,Finished
+2026,5,max_verstappen,Max Verstappen,Red Bull,7,7,2.0,Finished
+2026,5,arvid_lindblad,Arvid Lindblad,RB F1 Team,9,8,1.0,Finished
+2026,5,colapinto,Franco Colapinto,Alpine F1 Team,13,9,0.0,Finished
+2026,5,sainz,Carlos Sainz,Williams,10,10,0.0,Finished
+2026,5,lawson,Liam Lawson,RB F1 Team,18,11,0.0,Finished
+2026,5,bortoleto,Gabriel Bortoleto,Audi,12,12,0.0,Finished
+2026,5,ocon,Esteban Ocon,Haas F1 Team,14,13,0.0,Finished
+2026,5,perez,Sergio Pérez,Cadillac F1 Team,16,14,0.0,Finished
+2026,5,hulkenberg,Nico Hülkenberg,Audi,11,15,0.0,Finished
+2026,5,stroll,Lance Stroll,Aston Martin,17,16,0.0,Lapped
+2026,5,bottas,Valtteri Bottas,Cadillac F1 Team,21,17,0.0,Lapped
+2026,5,bearman,Oliver Bearman,Haas F1 Team,19,18,0.0,Lapped
+2026,5,albon,Alexander Albon,Williams,22,19,0.0,Lapped
+2026,5,gasly,Pierre Gasly,Alpine F1 Team,20,20,0.0,Lapped
+2026,5,hadjar,Isack Hadjar,Red Bull,8,21,0.0,Lapped
+2026,5,alonso,Fernando Alonso,Aston Martin,15,22,0.0,Retired
+2026,9,antonelli,Andrea Kimi Antonelli,Mercedes,2,1,8.0,Finished
+2026,9,hamilton,Lewis Hamilton,Ferrari,1,2,7.0,Finished
+2026,9,norris,Lando Norris,McLaren,6,3,6.0,Finished
+2026,9,russell,George Russell,Mercedes,5,4,5.0,Finished
+2026,9,leclerc,Charles Leclerc,Ferrari,4,5,4.0,Finished
+2026,9,max_verstappen,Max Verstappen,Red Bull,3,6,3.0,Finished
+2026,9,piastri,Oscar Piastri,McLaren,7,7,2.0,Finished
+2026,9,lawson,Liam Lawson,RB F1 Team,9,8,1.0,Finished
+2026,9,hadjar,Isack Hadjar,Red Bull,8,9,0.0,Finished
+2026,9,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,10,0.0,Finished
+2026,9,gasly,Pierre Gasly,Alpine F1 Team,11,11,0.0,Finished
+2026,9,colapinto,Franco Colapinto,Alpine F1 Team,14,12,0.0,Finished
+2026,9,bortoleto,Gabriel Bortoleto,Audi,12,13,0.0,Finished
+2026,9,bearman,Oliver Bearman,Haas F1 Team,16,14,0.0,Finished
+2026,9,hulkenberg,Nico Hülkenberg,Audi,13,15,0.0,Finished
+2026,9,ocon,Esteban Ocon,Haas F1 Team,17,16,0.0,Finished
+2026,9,sainz,Carlos Sainz,Williams,15,17,0.0,Finished
+2026,9,albon,Alexander Albon,Williams,22,18,0.0,Finished
+2026,9,bottas,Valtteri Bottas,Cadillac F1 Team,19,19,0.0,Finished
+2026,9,alonso,Fernando Alonso,Aston Martin,20,20,0.0,Finished
+2026,9,stroll,Lance Stroll,Aston Martin,21,21,0.0,Lapped
+2026,9,perez,Sergio Pérez,Cadillac F1 Team,18,22,0.0,Lapped
+2026,12,russell,George Russell,Mercedes,1,1,8.0,Finished
+2026,12,leclerc,Charles Leclerc,Ferrari,3,2,7.0,Finished
+2026,12,norris,Lando Norris,McLaren,2,3,6.0,Finished
+2026,12,antonelli,Andrea Kimi Antonelli,Mercedes,5,4,5.0,Finished
+2026,12,piastri,Oscar Piastri,McLaren,4,5,4.0,Finished
+2026,12,max_verstappen,Max Verstappen,Red Bull,6,6,3.0,Finished
+2026,12,hamilton,Lewis Hamilton,Ferrari,7,7,2.0,Finished
+2026,12,gasly,Pierre Gasly,Alpine F1 Team,8,8,1.0,Finished
+2026,12,bortoleto,Gabriel Bortoleto,Audi,9,9,0.0,Finished
+2026,12,arvid_lindblad,Arvid Lindblad,RB F1 Team,10,10,0.0,Finished
+2026,12,lawson,Liam Lawson,Red Bull,11,11,0.0,Finished
+2026,12,colapinto,Franco Colapinto,Alpine F1 Team,13,12,0.0,Finished
+2026,12,tsunoda,Yuki Tsunoda,RB F1 Team,12,13,0.0,Finished
+2026,12,ocon,Esteban Ocon,Haas F1 Team,15,14,0.0,Finished
+2026,12,bearman,Oliver Bearman,Haas F1 Team,17,15,0.0,Finished
+2026,12,albon,Alexander Albon,Williams,16,16,0.0,Finished
+2026,12,stroll,Lance Stroll,Aston Martin,18,17,0.0,Finished
+2026,12,alonso,Fernando Alonso,Aston Martin,22,18,0.0,Finished
+2026,12,bottas,Valtteri Bottas,Cadillac F1 Team,19,19,0.0,Lapped
+2026,12,sainz,Carlos Sainz,Williams,21,20,0.0,Lapped
+2026,12,perez,Sergio Pérez,Cadillac F1 Team,20,21,0.0,Lapped
+2026,12,hulkenberg,Nico Hülkenberg,Audi,14,22,0.0,Lapped

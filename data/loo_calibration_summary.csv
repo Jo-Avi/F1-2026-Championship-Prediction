@@ -1,0 +1,4 @@
+evaluation,brier_score,log_loss,champion_accuracy,temperature
+LOO raw,0.697526,1.320972,0.6,
+LOO temperature scaling,0.455429,0.700866,0.6,
+Final all-season temperature,0.381692,0.619425,,5.6

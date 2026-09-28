@@ -1,0 +1,23 @@
+season,round,driver,constructor,raw_predicted_position,predicted_position,predicted_race_points,prediction_uncertainty
+2026,16,Andrea Kimi Antonelli,Mercedes,3.26,1,25.0,4.38
+2026,16,George Russell,Mercedes,3.82,2,18.0,3.32
+2026,16,Charles Leclerc,Ferrari,4.85,3,15.0,3.69
+2026,16,Lewis Hamilton,Ferrari,5.2,4,12.0,5.29
+2026,16,Oscar Piastri,McLaren,5.9,5,10.0,3.18
+2026,16,Max Verstappen,Red Bull,6.23,6,8.0,4.77
+2026,16,Isack Hadjar,Red Bull,6.78,7,6.0,3.04
+2026,16,Lando Norris,McLaren,8.08,8,4.0,3.99
+2026,16,Pierre Gasly,Alpine F1 Team,10.42,9,2.0,3.05
+2026,16,Franco Colapinto,Alpine F1 Team,10.51,10,1.0,3.47
+2026,16,Liam Lawson,RB F1 Team,10.81,11,0.0,2.99
+2026,16,Arvid Lindblad,RB F1 Team,11.6,12,0.0,2.98
+2026,16,Gabriel Bortoleto,Audi,12.32,13,0.0,3.41
+2026,16,Nico Hülkenberg,Audi,13.19,14,0.0,2.67
+2026,16,Oliver Bearman,Haas F1 Team,13.46,15,0.0,2.41
+2026,16,Esteban Ocon,Haas F1 Team,13.66,16,0.0,3.16
+2026,16,Lance Stroll,Aston Martin,13.71,17,0.0,2.14
+2026,16,Alexander Albon,Williams,14.02,18,0.0,2.68
+2026,16,Valtteri Bottas,Cadillac F1 Team,14.15,19,0.0,2.95
+2026,16,Fernando Alonso,Aston Martin,14.37,20,0.0,2.95
+2026,16,Sergio Pérez,Cadillac F1 Team,14.84,21,0.0,2.88
+2026,16,Carlos Sainz,Williams,14.88,22,0.0,3.12

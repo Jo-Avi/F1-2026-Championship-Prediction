@@ -1,0 +1,6 @@
+season,actual_champion,actual_champion_probability,predicted_champion,predicted_champion_probability,correct
+2021,Max Verstappen,12.509999999999998,Lewis Hamilton,87.49,False
+2022,Max Verstappen,99.96000000000001,Max Verstappen,99.96000000000001,True
+2023,Max Verstappen,100.0,Max Verstappen,100.0,True
+2024,Max Verstappen,99.32,Max Verstappen,99.32,True
+2025,Lando Norris,1.09,Oscar Piastri,98.91,False

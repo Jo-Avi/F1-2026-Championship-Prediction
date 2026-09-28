@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Large ML model files
+*.pkl
+
+# Local backups
+*_backup*
+requirements_before_sklearn_fix.txt
+
+# Temporary files
+*.tmp
+*.log
+
+# Test files
+sklearn_test/
