@@ -1,203 +1,215 @@
-🏎️ F1 2026 Championship Prediction
+# F1 2026 Championship Prediction
 
-An end-to-end machine learning project that estimates Formula 1 2026
-World Drivers' Championship probabilities using historical race data,
-driver and constructor performance features, Random Forest regression,
-Monte Carlo simulation, historical backtesting, and probability
-calibration.
+A machine learning project that predicts Formula 1 race finishing positions and estimates 2026 World Drivers' Championship probabilities using historical F1 data, Random Forest regression, Monte Carlo simulation, historical backtesting, and probability calibration.
 
-Current model state: After Round 15 of the 2026 season
-Simulation: 10,000 championship simulations
-Primary model: Random Forest Regressor
+---
 
-📌 Overview
+## 🚀 Live Dashboard
 
-Instead of directly predicting the championship winner, the project
-breaks the problem into race-level predictions:
+**Coming Soon**
 
+---
+
+## 📊 Project Overview
+
+The project uses a race-by-race prediction approach instead of directly predicting the championship winner.
+
+The overall workflow is:
+
+```text
 Historical F1 Data
-        ↓
-Data Cleaning & Feature Engineering
-        ↓
-Random Forest Race-Position Model
-        ↓
-Upcoming Race Prediction
-        ↓
-Monte Carlo Simulation
-        ↓
-Historical Backtesting
-        ↓
-Probability Calibration
-        ↓
-2026 Championship Probabilities
-        ↓
-Streamlit Dashboard
-
-The system is designed as a rolling prediction pipeline that can be
-updated after each completed race.
-
-🎯 Objectives
-
-Predict driver finishing positions for upcoming races.
-
-Capture recent driver and constructor performance.
-
-Incorporate championship standings before each race.
-
-Reduce future-data leakage through chronological feature
-engineering.
-
-Evaluate the model using time-based validation.
-
-Simulate thousands of possible championship outcomes.
-
-Estimate championship-winning probabilities.
-
-Backtest the simulation against historical F1 seasons.
-
-Calibrate championship probabilities using out-of-sample historical
-results.
-
-Present results through an interactive Streamlit dashboard.
-
-📊 Data
-
-Historical Formula 1 data from 2018--2025 is used for model
-development and evaluation.
-
-The project works with:
-
-Race results
-
-Qualifying results
-
-Sprint results
-
-Driver standings
-
-Constructor standings
-
-The 2026 dataset is updated as the season progresses.
-
-Data Source
-
-Historical and 2026 race data is collected through the Jolpica-F1
-API, an Ergast-compatible Formula 1 data API.
-
-🧠 Feature Engineering
-
-The model combines recent driver performance, constructor performance,
-and championship-state information.
-
-Driver Features
-
-Average finishing position over the last 3 races
-
-Average finishing position over the last 5 races
-
-Average points over the last 3 races
-
-Average points over the last 5 races
-
-Average qualifying position over the last 3 races
-
-Average qualifying position over the last 5 races
-
-Historical DNF rate
-
-Constructor Features
-
-Average finishing position over the last 3 races
-
-Average points over the last 3 races
-
-Average qualifying position over the last 3 races
-
-Championship Features
-
-Driver championship position before the race
-
-Driver championship points before the race
-
-Driver wins before the race
-
-Constructor championship position before the race
-
-Constructor championship points before the race
-
-Constructor wins before the race
-
-Rolling features are shifted so that information from the target race is
-not used to construct its own prediction.
-
-🤖 Machine Learning
-
+        │
+        ▼
+Data Collection & Cleaning
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
 Random Forest Regression
+        │
+        ▼
+Race Finishing Position Prediction
+        │
+        ▼
+Monte Carlo Simulation
+        │
+        ▼
+Historical Backtesting
+        │
+        ▼
+Probability Calibration
+        │
+        ▼
+2026 Championship Probabilities
+        │
+        ▼
+Streamlit Dashboard
+```
 
-The primary model predicts a driver's finishing position rather than
-directly predicting the championship winner.
+The system is designed to be updated after each completed race during the 2026 season.
 
-This provides many driver-race observations for model training instead
-of only one champion per season.
+---
 
-Model Configuration
+## 🎯 Features
 
-Parameter                                      Value
+### 🏎️ Race Prediction
 
-Model                        Random Forest Regressor
-Trees                                            300
-Maximum Depth                                     12
-Minimum Samples per Leaf                           3
-Random State                                      42
+* Predicts driver finishing positions for upcoming races
+* Uses recent driver performance
+* Uses recent constructor performance
+* Incorporates championship standings
+* Supports pre-qualifying race predictions
 
-🧪 Time-Based Validation
+### 📊 Feature Engineering
 
-Because Formula 1 data is chronological, a random train/test split was
-avoided.
+* Driver rolling performance features
+* Constructor rolling performance features
+* Qualifying performance
+* Driver DNF rate
+* Driver championship position and points
+* Driver wins before the race
+* Constructor championship position and points
+* Constructor wins before the race
 
-Dataset      Seasons
+### 🎲 Monte Carlo Simulation
 
-Training     2018--2023
-Validation   2024
-Test         2025
+* Simulates the remaining championship 10,000 times
+* Uses predicted race finishing positions
+* Introduces prediction uncertainty
+* Incorporates DNF probability
+* Converts race results into championship points
+* Estimates championship-winning probabilities
 
-Pre-Qualifying Model Performance
+### 🔬 Historical Backtesting
 
-Dataset                       MAE        RMSE
+The championship simulation is evaluated against previous F1 seasons:
 
-Training                    2.374       3.040
-Validation --- 2024         3.485       4.364
-Test --- 2025           3.853   4.758
+* 2021
+* 2022
+* 2023
+* 2024
+* 2025
 
-🎲 Monte Carlo Championship Simulation
+### 📈 Probability Calibration
 
-A single race prediction cannot represent the uncertainty of an entire
-F1 championship. The project therefore uses 10,000 Monte Carlo
-simulations.
+The project uses leave-one-season-out calibration and temperature scaling to evaluate and improve the reliability of the raw Monte Carlo championship probabilities.
+
+---
+
+## 📚 Dataset
+
+Historical Formula 1 data from **2018–2025** is used for model development and evaluation.
+
+The project includes:
+
+* Race results
+* Qualifying results
+* Sprint results
+* Driver standings
+* Constructor standings
+
+2026 data is maintained separately and updated as the season progresses.
+
+### Data Source
+
+F1 data is collected using the **Jolpica-F1 API**.
+
+---
+
+## 🤖 Machine Learning Model
+
+The primary race prediction model is a **Random Forest Regressor**.
+
+Instead of directly predicting the championship winner, the model predicts the expected finishing position of each driver in an upcoming race.
+
+### Model Configuration
+
+| Parameter | Value |
+| --------- | ----- |
+| Model | Random Forest Regressor |
+| Trees | 300 |
+| Maximum Depth | 12 |
+| Minimum Samples per Leaf | 3 |
+| Random State | 42 |
+
+---
+
+## 🧠 Feature Engineering
+
+The model combines driver, constructor, qualifying, and championship-state information.
+
+### Driver Features
+
+* Average finishing position over the last 3 races
+* Average finishing position over the last 5 races
+* Average points over the last 3 races
+* Average points over the last 5 races
+* Average qualifying position over the last 3 races
+* Average qualifying position over the last 5 races
+* Historical DNF rate
+
+### Constructor Features
+
+* Average finishing position over the last 3 races
+* Average points over the last 3 races
+* Average qualifying position over the last 3 races
+
+### Championship Features
+
+* Driver championship position before the race
+* Driver championship points before the race
+* Driver wins before the race
+* Constructor championship position before the race
+* Constructor championship points before the race
+* Constructor wins before the race
+
+Rolling features are calculated using information available before the target race to reduce future-data leakage.
+
+---
+
+## 🧪 Model Evaluation
+
+The project uses chronological validation instead of a random train/test split.
+
+```text
+Training  → 2018–2023
+Validation → 2024
+Testing   → 2025
+```
+
+### Pre-Qualifying Model Performance
+
+| Dataset | MAE | RMSE |
+| ------- | ---: | ----: |
+| Training | 2.374 | 3.040 |
+| Validation — 2024 | 3.485 | 4.364 |
+| Test — 2025 | **3.853** | **4.758** |
+
+---
+
+## 🎲 Monte Carlo Simulation
+
+A single race prediction cannot represent the uncertainty of an entire championship.
+
+The project therefore runs **10,000 Monte Carlo simulations**.
 
 For each simulation:
 
-Start from the current championship standings.
+1. Start from the current championship standings
+2. Predict the remaining race outcomes
+3. Add prediction uncertainty
+4. Account for possible DNFs
+5. Convert finishing positions into championship points
+6. Calculate the final championship standings
+7. Record the championship winner
 
-Predict the remaining race outcomes.
-
-Introduce uncertainty around predicted finishing positions.
-
-Account for DNF probability.
-
-Convert finishing positions into championship points.
-
-Simulate the remaining races.
-
-Calculate the final championship standings.
-
-Record the championship winner.
-
+```text
 Current Championship State
           ↓
 Remaining Races
           ↓
-Predicted Race Performance
+Race Predictions
           ↓
 Uncertainty + DNF Modeling
           ↓
@@ -206,144 +218,184 @@ Final Championship Standings
 Repeat 10,000 Times
           ↓
 Championship Probabilities
+```
 
-🔬 Historical Backtesting
+---
 
-The complete championship simulation was backtested on the
-2021--2025 seasons.
+## 🔬 Historical Backtesting
 
-Season   Actual Champion   Predicted Champion
+The championship simulation was backtested against the 2021–2025 seasons.
 
-2021     Max Verstappen    Lewis Hamilton
-2022     Max Verstappen    Max Verstappen
-2023     Max Verstappen    Max Verstappen
-2024     Max Verstappen    Max Verstappen
-2025     Lando Norris      Oscar Piastri
+| Season | Actual Champion | Predicted Champion |
+| ------ | --------------- | ------------------ |
+| 2021 | Max Verstappen | Lewis Hamilton |
+| 2022 | Max Verstappen | Max Verstappen |
+| 2023 | Max Verstappen | Max Verstappen |
+| 2024 | Max Verstappen | Max Verstappen |
+| 2025 | Lando Norris | Oscar Piastri |
 
-Champion Prediction Accuracy
+### Champion Prediction Accuracy
 
-60%
+**60%**
 
-Backtesting was also used to evaluate the quality of the raw
-championship probabilities.
+The backtest was also used to evaluate the reliability of the championship probabilities.
 
-📈 Probability Calibration
+---
 
-Raw Monte Carlo probabilities can become overly confident. The project
-therefore evaluates temperature scaling using a leave-one-season-out
-approach.
+## 📈 Probability Calibration
 
-Out-of-Sample Calibration Results
+Raw Monte Carlo probabilities can become overly confident.
 
-Multiclass Brier Score
+The project evaluates **temperature scaling** using a leave-one-season-out approach.
 
-Model          Brier Score
+### Multiclass Brier Score
 
-Raw                 0.6975
-Calibrated      0.4554
+| Model | Brier Score |
+| ----- | -----------: |
+| Raw | 0.6975 |
+| Calibrated | **0.4554** |
 
-Log Loss
+### Log Loss
 
-Model            Log Loss
+| Model | Log Loss |
+| ----- | --------: |
+| Raw | 1.3210 |
+| Calibrated | **0.7009** |
 
-Raw                1.3210
-Calibrated     0.7009
+### Final Calibration Temperature
 
-Final Calibration Parameter
+```text
+5.600
+```
 
-Temperature = 5.600
+---
 
-🏆 Current 2026 Championship Estimate
+## 🏆 Current 2026 Championship Estimate
 
-The current model state is based on the championship standings after
-Round 15.
+The current model state is based on the championship standings after **Round 15**.
 
-Driver                    Championship Probability
+| Driver | Championship Probability |
+| ------ | ------------------------: |
+| Andrea Kimi Antonelli | **54.72%** |
+| George Russell | **25.79%** |
+| Lewis Hamilton | **11.99%** |
+| Charles Leclerc | 0.39% |
+| Lando Norris | 0.39% |
+| Max Verstappen | 0.39% |
+| Oscar Piastri | 0.39% |
 
-Andrea Kimi Antonelli                   54.72%
-George Russell                          25.79%
-Lewis Hamilton                          11.99%
-Charles Leclerc                              0.39%
-Lando Norris                                 0.39%
-Max Verstappen                               0.39%
-Oscar Piastri                                0.39%
+The remaining drivers receive approximately 0.39% each in the current calibrated output.
 
-The remaining drivers each receive approximately 0.39% in the
-current calibrated output.
+> These are model-generated probabilities and will change as additional 2026 race results become available.
 
-These are model-generated probabilities, not guaranteed outcomes. They
-will change as the 2026 season progresses.
+---
 
-🏁 Round 16 Prediction
+## 🏁 Round 16 Prediction
 
-The project includes a pre-qualifying prediction for 2026 Round 16.
+The project currently includes a **pre-qualifying prediction** for Round 16.
 
-Because the prediction is generated before the target race's qualifying
-session, the current-race grid and qualifying result are not used.
+The current-race grid and qualifying result are not used for this prediction.
 
-Position Driver
+### Predicted Top 10
 
-       1 Andrea Kimi Antonelli
-       2 George Russell
-       3 Charles Leclerc
-       4 Lewis Hamilton
-       5 Oscar Piastri
-       6 Max Verstappen
-       7 Isack Hadjar
-       8 Lando Norris
-       9 Pierre Gasly
-      10 Franco Colapinto
+| Position | Driver |
+| -------- | ------ |
+| 1 | Andrea Kimi Antonelli |
+| 2 | George Russell |
+| 3 | Charles Leclerc |
+| 4 | Lewis Hamilton |
+| 5 | Oscar Piastri |
+| 6 | Max Verstappen |
+| 7 | Isack Hadjar |
+| 8 | Lando Norris |
+| 9 | Pierre Gasly |
+| 10 | Franco Colapinto |
 
-Full prediction:
+The complete prediction is available in:
 
+```text
 data/predicted_race_2026_round_16.csv
+```
 
-📊 Model Insights
+---
 
-The Random Forest feature analysis identified several strong predictors,
-including:
+## 📊 Model Insights
 
-constructor_avg_points_last_3
+Some of the strongest Random Forest features include:
 
-grid
+* `constructor_avg_points_last_3`
+* `grid`
+* `driver_avg_points_last_5`
+* `constructor_avg_qualifying_last_3`
+* `driver_avg_qualifying_last_5`
+* `constructor_championship_points_before`
 
-driver_avg_points_last_5
+These features capture recent constructor competitiveness, starting position, recent driver performance, and championship state.
 
-constructor_avg_qualifying_last_3
+---
 
-driver_avg_qualifying_last_5
+## 🖥️ Streamlit Dashboard
 
-constructor_championship_points_before
+The project includes an interactive Streamlit dashboard for displaying:
 
-These features capture recent constructor competitiveness, starting
-position, recent driver performance, and championship state.
+* Championship probabilities
+* Top championship contenders
+* Round 16 prediction
+* Raw vs calibrated probabilities
+* Model performance
+* Historical backtesting
+* Probability calibration
+* Project methodology
 
-🖥️ Streamlit Dashboard
+### Run the Dashboard
 
-The project includes a Streamlit dashboard for exploring:
-
-Championship probabilities
-
-Top contenders
-
-Round 16 race prediction
-
-Raw vs calibrated probabilities
-
-Model performance
-
-Historical backtesting
-
-Probability calibration
-
-Project methodology
-
-Run the Dashboard
-
+```bash
 python -m streamlit run app.py
+```
 
-📁 Project Structure
+---
 
+## 🛠️ Tech Stack
+
+### Programming
+
+* Python
+
+### Data Processing
+
+* Pandas
+* NumPy
+
+### Machine Learning
+
+* Scikit-learn
+* Random Forest Regressor
+
+### Simulation & Statistics
+
+* Monte Carlo Simulation
+* Temperature Scaling
+* Leave-One-Season-Out Calibration
+
+### Visualization & Dashboard
+
+* Plotly
+* Streamlit
+
+### Data Source
+
+* Jolpica-F1 API
+
+### Development
+
+* Git
+* GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
 F1-2026-Championship-Prediction/
 │
 ├── app.py
@@ -352,90 +404,106 @@ F1-2026-Championship-Prediction/
 ├── .gitignore
 │
 ├── data/
-│   ├── Historical race data
-│   ├── 2026 race data
+│   ├── Historical F1 datasets
+│   ├── 2026 datasets
 │   ├── Monte Carlo results
 │   ├── Backtesting results
 │   └── Calibration results
 │
 └── src/
-    ├── Data collection
-    ├── Feature engineering
-    ├── Model training
+    ├── Data collection scripts
+    ├── Feature engineering scripts
+    ├── Model training scripts
     ├── Race prediction
     ├── Monte Carlo simulation
     ├── Historical backtesting
     └── Probability calibration
+```
 
-🛠️ Tech Stack
+---
 
-Category           Technologies
+## ⚙️ Getting Started
 
-Language           Python
-Data Processing    Pandas, NumPy
-Machine Learning   Scikit-learn
-Model              Random Forest Regressor
-Simulation         Monte Carlo
-Visualization      Plotly
-Dashboard          Streamlit
-Data Source        Jolpica-F1 API
-Version Control    Git, GitHub
+### 1. Clone the Repository
 
-⚙️ Installation
-
-1. Clone the Repository
-
+```bash
 git clone https://github.com/Jo-Avi/F1-2026-Championship-Prediction.git
 cd F1-2026-Championship-Prediction
+```
 
-2. Create a Virtual Environment
+### 2. Create a Virtual Environment
 
+```bash
 python -m venv .venv
+```
 
-3. Activate the Environment
+### 3. Activate the Environment
 
-Windows
+#### Windows
 
+```powershell
 .venv\Scripts\Activate.ps1
+```
 
-macOS / Linux
+#### macOS / Linux
 
+```bash
 source .venv/bin/activate
+```
 
-4. Install Dependencies
+### 4. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-▶️ Running the Project
+---
 
-Dashboard
+## ▶️ Running the Project
 
+### Run the Dashboard
+
+```bash
 python -m streamlit run app.py
+```
 
-Train the Pre-Qualifying Model
+### Train the Pre-Qualifying Model
 
+```bash
 python src/train_prequalifying_model.py
+```
 
-Generate a Race Prediction
+### Generate a Race Prediction
 
+```bash
 python src/predict_2026_race.py
+```
 
-Run the Monte Carlo Simulation
+### Run Monte Carlo Simulation
 
+```bash
 python src/monte_carlo_simulation.py
+```
 
-Run Historical Backtesting
+### Run Historical Backtesting
 
+```bash
 python src/backtest_monte_carlo.py
+```
 
-Run Leave-One-Season-Out Calibration
+### Run Probability Calibration
 
+```bash
 python src/calibrate_championship_probabilities_loo.py
+```
 
-🔄 Updating the Model During the 2026 Season
+---
 
-The project is designed to support rolling updates:
+## 🔄 Updating the Project During the 2026 Season
 
+The project is designed to be updated after each completed race.
+
+```text
 Completed Race
       ↓
 Collect Latest Results
@@ -451,77 +519,72 @@ Run Monte Carlo Simulation
 Calibrate Probabilities
       ↓
 Update Dashboard
+```
 
-For Sprint weekends, Sprint results can also be incorporated into the
-championship simulation.
+For Sprint weekends, Sprint results can also be incorporated into the championship simulation.
 
-🔮 Future Improvements
+---
 
-Circuit-specific performance
+## 🔮 Future Improvements
 
-Practice-session performance
+* Circuit-specific performance
+* Practice-session performance
+* Weather conditions
+* Track characteristics
+* Tire strategy
+* Pit-stop performance
+* Qualifying/grid information
+* More advanced DNF modeling
+* Driver-specific uncertainty
+* Constructor-specific uncertainty
+* Championship progression charts
+* Automated F1 data updates
+* Automated post-race predictions
+* Automated dashboard updates
 
-Weather conditions
+---
 
-Track characteristics
+## ⚠️ Limitations
 
-Tire strategy
+* The historical calibration sample contains a limited number of championship seasons.
+* F1 races contain unpredictable events such as incidents, mechanical failures, safety cars, penalties, weather, and strategy decisions.
+* The current Round 16 prediction is generated before qualifying and does not use the actual starting grid.
+* Detailed telemetry, weather, practice-session performance, and race strategy are not yet included.
+* Championship probabilities are model estimates and are not guaranteed outcomes.
 
-Pit-stop performance
+---
 
-Qualifying/grid information when available
+## 📜 Disclaimer
 
-Gradient boosting and ensemble models
+This project is intended for educational and portfolio purposes.
 
-More sophisticated DNF modeling
+The championship probabilities are generated using historical data, machine learning predictions, uncertainty assumptions, and Monte Carlo simulations. They are not official Formula 1 predictions and should not be interpreted as guaranteed future results.
 
-Driver- and constructor-specific uncertainty
+---
 
-Championship progression visualizations
+## 👨‍💻 Author
 
-Automated F1 data updates
+**Aviral Yadav**
 
-Automated post-race predictions
-
-⚠️ Limitations
-
-The historical calibration sample contains a limited number of
-completed championship seasons.
-
-F1 outcomes contain unpredictable events such as incidents,
-mechanical failures, safety cars, penalties, weather, and strategy
-decisions.
-
-The current Round 16 prediction is generated before qualifying and
-therefore does not use the actual starting grid.
-
-Detailed telemetry, tire strategy, weather, and practice-session
-performance are not yet included.
-
-Championship probabilities are model estimates and are not
-guarantees.
-
-📜 Disclaimer
-
-This project is an educational machine learning and data science
-project.
-
-The championship probabilities are generated from historical data,
-engineered features, machine learning predictions, uncertainty
-assumptions, and Monte Carlo simulations. They are not official Formula
-1 predictions and do not guarantee future race or championship outcomes.
-
-👨‍💻 Author
-
-Aviral Yadav
-
-B.Tech in Computer Science and Engineering
-Specialization: Cyber Security and Digital Forensics
+B.Tech in Computer Science and Engineering  
+Specialization: Cyber Security and Digital Forensics  
 VIT Bhopal
 
-GitHub: Jo-Avi
+* GitHub: [Jo-Avi](https://github.com/Jo-Avi)
+* Project: [F1 2026 Championship Prediction](https://github.com/Jo-Avi/F1-2026-Championship-Prediction)
 
-Repository: F1 2026 Championship
-Prediction
+---
 
-🏁 Built to turn race-level predictions into a probabilistic championship forecast.
+## ⭐ Project Highlights
+
+* Historical F1 data from **2018–2025**
+* Driver and constructor feature engineering
+* Chronological model validation
+* Random Forest race-position prediction
+* Pre-qualifying race prediction
+* **10,000-run Monte Carlo simulation**
+* Historical backtesting from **2021–2025**
+* Leave-one-season-out probability calibration
+* Temperature-scaled championship probabilities
+* Interactive Streamlit dashboard
+* Designed for rolling updates throughout the 2026 season
