@@ -35,3 +35,19 @@ requirements_before_sklearn_fix.txt
 
 # Test files
 sklearn_test/
+
+# Development / intermediate datasets
+data/feature_dataset_*.csv
+data/master_race_dataset.csv
+data/ml_dataset.csv
+data/prediction_features_2026.csv
+data/upcoming_race_features_2026.csv
+data/random_forest_tuning_results.csv
+data/random_forest_feature_importance.png
+
+# Development scripts
+src/check_*.py
+src/inspect_datasets.py
+
+# Old requirements file
+requirements_dashboard.txt
